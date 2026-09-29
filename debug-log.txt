@@ -1,0 +1,1359 @@
+Name: Mayur Waghela | Email: mayurwaghela33183@gmail.com | Phone: +918600521908
+Name: mayur1 | Email: mayurwaghela33183@gmail.com | Phone: +918600521908
+Name: Mayur Waghela | Email: mayurwaghela33183@gmail.com | Phone: +918600521908
+[2026-05-20 23:06:57] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => hiren doshi
+    [phone] => +919323211054
+    [email] => hiren@signpharma.com
+)
+
+Parsed - Name: hiren doshi | Email: hiren@signpharma.com | Phone: +919323211054
+[2026-05-20 23:06:57] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => hiren doshi
+    [phone] => +919323211054
+    [email] => hiren@signpharma.com
+)
+
+Parsed - Name: hiren doshi | Email: hiren@signpharma.com | Phone: +919323211054
+SUCCESS: Mail sent to primary recipients.
+
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-21 15:11:34] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Dinesh Rajpal
+    [phone] => +919821256998
+    [email] => dr.rajpal.dinesh@gmail.com
+)
+
+Parsed - Name: Dinesh Rajpal | Email: dr.rajpal.dinesh@gmail.com | Phone: +919821256998
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-28 09:54:51] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Ghanashyam lalji  patel
+    [phone] => +91 99981 33568
+    [email] => baravadiyamahesh@gmail.com
+)
+
+Parsed - Name: Ghanashyam lalji  patel | Email: baravadiyamahesh@gmail.com | Phone: +91 99981 33568
+[2026-05-28 09:54:51] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Ghanashyam lalji  patel
+    [phone] => +91 99981 33568
+    [email] => baravadiyamahesh@gmail.com
+)
+
+Parsed - Name: Ghanashyam lalji  patel | Email: baravadiyamahesh@gmail.com | Phone: +91 99981 33568
+SUCCESS: Mail sent to primary recipients.
+
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-29 08:49:44] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Sk Rizwan Khan Khan
+    [phone] => 9771200392
+    [email] => kskrizwankhan@gmail.com
+)
+
+Parsed - Name: Sk Rizwan Khan Khan | Email: kskrizwankhan@gmail.com | Phone: 9771200392
+[2026-05-29 08:49:44] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Sk Rizwan Khan Khan
+    [phone] => 9771200392
+    [email] => kskrizwankhan@gmail.com
+)
+
+Parsed - Name: Sk Rizwan Khan Khan | Email: kskrizwankhan@gmail.com | Phone: 9771200392
+SUCCESS: Mail sent to primary recipients.
+
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-29 08:50:23] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Sk Rizwan Khan Khan
+    [phone] => +919771200392
+    [email] => kskrizwankhan@gmail.com
+)
+
+Parsed - Name: Sk Rizwan Khan Khan | Email: kskrizwankhan@gmail.com | Phone: +919771200392
+[2026-05-29 08:50:23] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Sk Rizwan Khan Khan
+    [phone] => +919771200392
+    [email] => kskrizwankhan@gmail.com
+)
+
+Parsed - Name: Sk Rizwan Khan Khan | Email: kskrizwankhan@gmail.com | Phone: +919771200392
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-29 08:50:27] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Sk Rizwan Khan Khan
+    [phone] => +919771200392
+    [email] => kskrizwankhan@gmail.com
+)
+
+Parsed - Name: Sk Rizwan Khan Khan | Email: kskrizwankhan@gmail.com | Phone: +919771200392
+SUCCESS: Mail sent to primary recipients.
+
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-29 09:13:38] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => AKHILESH VISHWAKARMA
+    [phone] => 9167723327
+    [email] => STARLIFEPATHLAB@GMIL.COM
+)
+
+Parsed - Name: AKHILESH VISHWAKARMA | Email: STARLIFEPATHLAB@GMIL.COM | Phone: 9167723327
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-29 09:35:04] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Narendra Vasandi 
+    [phone] => 99301 55937 
+    [email] => narendravasandi@gmail.com
+)
+
+Parsed - Name: Narendra Vasandi  | Email: narendravasandi@gmail.com | Phone: 99301 55937 
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-29 19:48:44] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Sunil Newalkar 
+    [phone] => 9224297530
+    [email] => neat.clean1960@gmail.com
+)
+
+Parsed - Name: Sunil Newalkar  | Email: neat.clean1960@gmail.com | Phone: 9224297530
+[2026-05-29 19:48:48] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Sunil Newalkar 
+    [phone] => 9224297530
+    [email] => neat.clean1960@gmail.com
+)
+
+Parsed - Name: Sunil Newalkar  | Email: neat.clean1960@gmail.com | Phone: 9224297530
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-29 19:48:51] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Sunil Newalkar 
+    [phone] => 9224297530
+    [email] => neat.clean1960@gmail.com
+)
+
+Parsed - Name: Sunil Newalkar  | Email: neat.clean1960@gmail.com | Phone: 9224297530
+SUCCESS: Mail sent to primary recipients.
+
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-31 08:57:57] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => VIJAYKUMAR AWALE
+    [phone] => +919819672088
+    [email] => vtawale@yahoo.com
+)
+
+Parsed - Name: VIJAYKUMAR AWALE | Email: vtawale@yahoo.com | Phone: +919819672088
+[2026-05-31 08:57:58] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => VIJAYKUMAR AWALE
+    [phone] => +919819672088
+    [email] => vtawale@yahoo.com
+)
+
+Parsed - Name: VIJAYKUMAR AWALE | Email: vtawale@yahoo.com | Phone: +919819672088
+SUCCESS: Mail sent to primary recipients.
+
+[2026-05-31 08:58:01] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => VIJAYKUMAR AWALE
+    [phone] => +919819672088
+    [email] => vtawale@yahoo.com
+)
+
+Parsed - Name: VIJAYKUMAR AWALE | Email: vtawale@yahoo.com | Phone: +919819672088
+SUCCESS: Mail sent to primary recipients.
+
+SUCCESS: Mail sent to primary recipients.
+
+[2026-06-01 08:42:40] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => YA op 
+    [phone] => ⁵0l
+    [email] => hilalkasamm@gmail.com
+)
+
+Parsed - Name: YA op  | Email: hilalkasamm@gmail.com | Phone: ⁵0l
+SUCCESS: Mail sent to primary recipients.
+
+[2026-06-01 17:56:39] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Samarth
+    [phone] => 8928042094
+    [email] => samarthjoshi256@gmail.com
+)
+
+Parsed - Name: Samarth | Email: samarthjoshi256@gmail.com | Phone: 8928042094
+[2026-06-01 17:56:41] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Samarth
+    [phone] => 8928042094
+    [email] => samarthjoshi256@gmail.com
+)
+
+Parsed - Name: Samarth | Email: samarthjoshi256@gmail.com | Phone: 8928042094
+SUCCESS: Mail sent to primary recipients.
+
+[2026-06-01 17:56:44] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Samarth
+    [phone] => 8928042094
+    [email] => samarthjoshi256@gmail.com
+)
+
+Parsed - Name: Samarth | Email: samarthjoshi256@gmail.com | Phone: 8928042094
+SUCCESS: Mail sent to primary recipients.
+
+[2026-06-01 17:56:45] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Samarth
+    [phone] => 8928042094
+    [email] => samarthjoshi256@gmail.com
+)
+
+Parsed - Name: Samarth | Email: samarthjoshi256@gmail.com | Phone: 8928042094
+SUCCESS: Mail sent to primary recipients.
+
+SUCCESS: Mail sent to primary recipients.
+
+[2026-06-01 17:56:52] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => Samarth
+    [phone] => 8928042094
+    [email] => samarthjoshi256@gmail.com
+)
+
+Parsed - Name: Samarth | Email: samarthjoshi256@gmail.com | Phone: 8928042094
+SUCCESS: Mail sent to primary recipients.
+
+[2026-06-25 14:13:35] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => SACHIN KADAM
+    [phone] => +919619189180
+    [email] => sachingk80@gmail.com
+)
+
+Parsed - Name: SACHIN KADAM | Email: sachingk80@gmail.com | Phone: +919619189180
+ERROR: PHPMAILER ERROR: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 101 Additional SMTP info: Network is unreachable
+
+[2026-06-25 14:14:18] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => SACHIN KADAM
+    [phone] => 9619189180
+    [email] => sachingk80@gmail.com
+)
+
+Parsed - Name: SACHIN KADAM | Email: sachingk80@gmail.com | Phone: 9619189180
+ERROR: PHPMAILER ERROR: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 101 Additional SMTP info: Network is unreachable
+
+[2026-06-25 14:14:44] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => SACHIN KADAM
+    [phone] => 9619189180
+    [email] => sachingk80@gmail.com
+)
+
+Parsed - Name: SACHIN KADAM | Email: sachingk80@gmail.com | Phone: 9619189180
+ERROR: PHPMAILER ERROR: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 101 Additional SMTP info: Network is unreachable
+
+[2026-06-25 14:15:30] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => SACHIN GANPAT KADAM
+    [phone] => 9619189180
+    [email] => sachingk80@gmail.com
+)
+
+Parsed - Name: SACHIN GANPAT KADAM | Email: sachingk80@gmail.com | Phone: 9619189180
+ERROR: PHPMAILER ERROR: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 101 Additional SMTP info: Network is unreachable
+
+[2026-07-11 11:55:01] START LEAD SUBMISSION
+RAW POST: Array
+(
+    [name] => test
+    [phone] => 1234567890
+    [email] => test@gmail.com
+)
+
+Parsed - Name: test | Email: test@gmail.com | Phone: 1234567890
+ERROR: PHPMAILER ERROR: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server SMTP code: 101 Additional SMTP info: Network is unreachable
+
+DEBUG email raw: 'bs62431343@gmail.com' | after trim: 'bs62431343@gmail.com'
+=== 2026-07-14 13:56:42 ===
+Name: Balwant Singh | Email: bs62431343@gmail.com | Phone: +91 919823003677
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-3120c8e41fcsm43836636eec.15 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+DEBUG email raw: 'bs62431343@gmail.com' | after trim: 'bs62431343@gmail.com'
+=== 2026-07-14 13:56:45 ===
+Name: Balwant Singh | Email: bs62431343@gmail.com | Phone: +91 919823003677
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-3120c8e41fcsm43836636eec.15 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3120c8e41fcsm43836636eec.15 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-3117483dec6sm79713347eec.11 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3120c8e41fcsm43836636eec.15 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3120c8e41fcsm43836636eec.15 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-3120c8e41fcsm43836636eec.15 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Tue, 14 Jul 2026 13:56:44 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <HMEMw1IisjI4tGEl7hWG51ADR2PdhIaRgRWoV1pdnI@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> Balwant Singh</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> bs62431343@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 919823003677</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1784017609 5a478bee46e88-3120c8e41fcsm43836636eec.15 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-3120c8e41fcsm43836636eec.15 - gsmtp
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-3117483dec6sm79713347eec.11 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3117483dec6sm79713347eec.11 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3117483dec6sm79713347eec.11 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3117483dec6sm79713347eec.11 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-3117483dec6sm79713347eec.11 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Tue, 14 Jul 2026 13:56:47 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <6nkn88n7GqR6hMcz0vKLFtpjAw38BYVTKS9uSNiU@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> Balwant Singh</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> bs62431343@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 919823003677</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1784017611 5a478bee46e88-3117483dec6sm79713347eec.11 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-3117483dec6sm79713347eec.11 - gsmtp
+DEBUG email raw: 'adv.sachindere@gmail.com' | after trim: 'adv.sachindere@gmail.com'
+=== 2026-07-15 12:35:44 ===
+Name: Sachin Dere | Email: adv.sachindere@gmail.com | Phone: +91 9821881290
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP a92af1059eb24-13cd2121f7dsm1569139c88.13 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK a92af1059eb24-13cd2121f7dsm1569139c88.13 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13cd2121f7dsm1569139c88.13 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13cd2121f7dsm1569139c88.13 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13cd2121f7dsm1569139c88.13 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead a92af1059eb24-13cd2121f7dsm1569139c88.13 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Wed, 15 Jul 2026 12:35:47 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <b8tPq3NXAUfh2PZhk9staTYr6gbWrj2P00VkcDTL64@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> Sachin Dere</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> adv.sachindere@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9821881290</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1784099151 a92af1059eb24-13cd2121f7dsm1569139c88.13 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection a92af1059eb24-13cd2121f7dsm1569139c88.13 - gsmtp
+DEBUG email raw: 'sarin_ra@yahoo.co.in' | after trim: 'sarin_ra@yahoo.co.in'
+=== 2026-07-25 17:17:14 ===
+Name: Rajiv Sarin | Email: sarin_ra@yahoo.co.in | Phone: +91 9968292504
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP a92af1059eb24-13d2d1d0d1esm13100982c88.0 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK a92af1059eb24-13d2d1d0d1esm13100982c88.0 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13d2d1d0d1esm13100982c88.0 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13d2d1d0d1esm13100982c88.0 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13d2d1d0d1esm13100982c88.0 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead a92af1059eb24-13d2d1d0d1esm13100982c88.0 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sat, 25 Jul 2026 17:17:17 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <CJHbms03CRvk3XmC8EioKAnGILA0yA3qdTCxfxABc@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> Rajiv Sarin</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> sarin_ra@yahoo.co.in</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9968292504</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1784980042 a92af1059eb24-13d2d1d0d1esm13100982c88.0 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection a92af1059eb24-13d2d1d0d1esm13100982c88.0 - gsmtp
+DEBUG email raw: 'sarin_ra@yahoo.co.in' | after trim: 'sarin_ra@yahoo.co.in'
+=== 2026-07-25 17:32:38 ===
+Name: RAJIV SARIN | Email: sarin_ra@yahoo.co.in | Phone: +91 9968292504
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP a92af1059eb24-13d130f55c6sm57316996c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+DEBUG email raw: 'sarin_ra@yahoo.co.in' | after trim: 'sarin_ra@yahoo.co.in'
+=== 2026-07-25 17:32:41 ===
+Name: RAJIV SARIN | Email: sarin_ra@yahoo.co.in | Phone: +91 9968292504
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK a92af1059eb24-13d130f55c6sm57316996c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP a92af1059eb24-13d130f55c6sm57317498c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13d130f55c6sm57316996c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13d130f55c6sm57316996c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13d130f55c6sm57316996c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 354 Go ahead a92af1059eb24-13d130f55c6sm57316996c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sat, 25 Jul 2026 17:32:41 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <6s7xhw4D5Q25IbEg6kHhTU5giL5awUfCjb0UqCLQ@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> RAJIV SARIN</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> sarin_ra@yahoo.co.in</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9968292504</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1784980965 a92af1059eb24-13d130f55c6sm57316996c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK a92af1059eb24-13d130f55c6sm57317498c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection a92af1059eb24-13d130f55c6sm57316996c88.15 - gsmtp
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13d130f55c6sm57317498c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13d130f55c6sm57317498c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-13d130f55c6sm57317498c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead a92af1059eb24-13d130f55c6sm57317498c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sat, 25 Jul 2026 17:32:43 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <3890p3KABZdZhvySERY16joug9g7g80hzSa2w1Qk@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> RAJIV SARIN</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> sarin_ra@yahoo.co.in</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9968292504</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1784980967 a92af1059eb24-13d130f55c6sm57317498c88.15 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection a92af1059eb24-13d130f55c6sm57317498c88.15 - gsmtp
+DEBUG email raw: 'Fijisp1@gmail.com' | after trim: 'Fijisp1@gmail.com'
+=== 2026-08-16 02:35:46 ===
+Name: David Ajay Maharaj | Email: Fijisp1@gmail.com | Phone: +91 13104355965
+DEBUG email raw: 'Fijisp1@gmail.com' | after trim: 'Fijisp1@gmail.com'
+=== 2026-08-16 02:35:48 ===
+Name: David Ajay Maharaj | Email: Fijisp1@gmail.com | Phone: +91 13104355965
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-320ea8f9d19sm18136782eec.27 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-320ea302649sm17202412eec.24 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-320ea8f9d19sm18136782eec.27 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-320ea8f9d19sm18136782eec.27 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-320ea8f9d19sm18136782eec.27 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-320ea8f9d19sm18136782eec.27 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-320ea8f9d19sm18136782eec.27 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sun, 16 Aug 2026 02:35:48 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <bHzeyhROBn1HRbdAiRmDcmBmja7CCRWq8Qdc3MVrp0@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> David Ajay Maharaj</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> Fijisp1@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 13104355965</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-320ea302649sm17202412eec.24 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-320ea302649sm17202412eec.24 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-320ea302649sm17202412eec.24 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1786827953 5a478bee46e88-320ea8f9d19sm18136782eec.27 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-320ea302649sm17202412eec.24 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-320ea8f9d19sm18136782eec.27 - gsmtp
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-320ea302649sm17202412eec.24 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sun, 16 Aug 2026 02:35:50 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <u3beKYvayIpS5lNoZOeDaZjUtiXaxOPhnIallLobwg@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> David Ajay Maharaj</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> Fijisp1@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 13104355965</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1786827954 5a478bee46e88-320ea302649sm17202412eec.24 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-320ea302649sm17202412eec.24 - gsmtp
+DEBUG email raw: 'yogiedesh@outlook.com' | after trim: 'yogiedesh@outlook.com'
+=== 2026-08-24 19:12:23 ===
+Name: YOGESH VILASRAO DESHMUKH | Email: yogiedesh@outlook.com | Phone: +91 918793067650
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-327f9209f51sm44383768eec.22 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+DEBUG email raw: 'yogiedesh@outlook.com' | after trim: 'yogiedesh@outlook.com'
+=== 2026-08-24 19:12:26 ===
+Name: YOGESH VILASRAO DESHMUKH | Email: yogiedesh@outlook.com | Phone: +91 918793067650
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-327f9209f51sm44383768eec.22 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-327f9209f51sm44383768eec.22 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-327f925190fsm45879524eec.31 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-327f9209f51sm44383768eec.22 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-327f9209f51sm44383768eec.22 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-327f9209f51sm44383768eec.22 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Mon, 24 Aug 2026 19:12:25 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <4hLJ3cMjHgDlFFDy9WcZU1BuvTnATvIBxjIPoy7o@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> YOGESH VILASRAO DESHMUKH</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> yogiedesh@outlook.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 918793067650</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-327f925190fsm45879524eec.31 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-327f925190fsm45879524eec.31 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-327f925190fsm45879524eec.31 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-327f925190fsm45879524eec.31 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1787578951 5a478bee46e88-327f9209f51sm44383768eec.22 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-327f925190fsm45879524eec.31 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Mon, 24 Aug 2026 19:12:27 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <n5yxAF5smvbvuV9XiLi5HQld1RsshMzYSupGBwjCcM@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> YOGESH VILASRAO DESHMUKH</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> yogiedesh@outlook.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 918793067650</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-327f9209f51sm44383768eec.22 - gsmtp
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1787578953 5a478bee46e88-327f925190fsm45879524eec.31 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-327f925190fsm45879524eec.31 - gsmtp
+DEBUG email raw: 'bravesai54@gmail.com' | after trim: 'bravesai54@gmail.com'
+=== 2026-09-06 20:36:15 ===
+Name: Sion | Email: bravesai54@gmail.com | Phone: +91 9850401773
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-3339af25062sm32985084eec.16 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+DEBUG email raw: 'bravesai54@gmail.com' | after trim: 'bravesai54@gmail.com'
+=== 2026-09-06 20:36:19 ===
+Name: Sion | Email: bravesai54@gmail.com | Phone: +91 9850401773
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-3339af25062sm32985084eec.16 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3339af25062sm32985084eec.16 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3339af25062sm32985084eec.16 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3339af25062sm32985084eec.16 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-3339af25062sm32985084eec.16 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sun, 6 Sep 2026 20:36:18 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <PwnJJkHASbah3LJyXaUsYlT2pKbjBdNsFluEPpAwhe8@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> Sion</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> bravesai54@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9850401773</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-3339885ca07sm23910449eec.1 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1788707182 5a478bee46e88-3339af25062sm32985084eec.16 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-3339af25062sm32985084eec.16 - gsmtp
+DEBUG email raw: 'bravesai54@gmail.com' | after trim: 'bravesai54@gmail.com'
+=== 2026-09-06 20:36:23 ===
+Name: Sion | Email: bravesai54@gmail.com | Phone: +91 9850401773
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-3339885ca07sm23910449eec.1 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3339885ca07sm23910449eec.1 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3339885ca07sm23910449eec.1 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-3339885ca07sm23910449eec.1 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP a92af1059eb24-1432437d0f4sm18139639c88.7 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-3339885ca07sm23910449eec.1 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sun, 6 Sep 2026 20:36:21 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <wha3rjJhYfbGC48G63RuLblWDwjkMMYnJrSuLPwRPA@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> Sion</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> bravesai54@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9850401773</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1788707186 5a478bee46e88-3339885ca07sm23910449eec.1 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-3339885ca07sm23910449eec.1 - gsmtp
+SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK a92af1059eb24-1432437d0f4sm18139639c88.7 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-1432437d0f4sm18139639c88.7 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-1432437d0f4sm18139639c88.7 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK a92af1059eb24-1432437d0f4sm18139639c88.7 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead a92af1059eb24-1432437d0f4sm18139639c88.7 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sun, 6 Sep 2026 20:36:24 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <NsSHnSfC41JCrI4UFauvdJxkant960df1pqV4eUsk@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> Sion</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> bravesai54@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9850401773</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1788707189 a92af1059eb24-1432437d0f4sm18139639c88.7 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection a92af1059eb24-1432437d0f4sm18139639c88.7 - gsmtp
+DEBUG email raw: 'madamtaisia@mail.ru' | after trim: 'madamtaisia@mail.ru'
+=== 2026-09-11 13:43:00 ===
+Name: Samantha Moore | Email: madamtaisia@mail.ru | Phone: +91 919876547566
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-33ba4e4fb3esm4538553eec.7 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-33ba4e4fb3esm4538553eec.7 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33ba4e4fb3esm4538553eec.7 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33ba4e4fb3esm4538553eec.7 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33ba4e4fb3esm4538553eec.7 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-33ba4e4fb3esm4538553eec.7 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Fri, 11 Sep 2026 13:43:03 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <GsAB0PK1N7TKzpgCSn6hnHS9btot6FGmOiNnLw5w@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> Samantha Moore</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> madamtaisia@mail.ru</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 919876547566</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1789114388 5a478bee46e88-33ba4e4fb3esm4538553eec.7 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-33ba4e4fb3esm4538553eec.7 - gsmtp
+DEBUG email raw: 'sagarbhoir797@gmail.com' | after trim: 'sagarbhoir797@gmail.com'
+=== 2026-09-12 21:45:29 ===
+Name: SAGAR BHOIR | Email: sagarbhoir797@gmail.com | Phone: +91 9111777897
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-33ba4cf72dbsm16154136eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-33ba4cf72dbsm16154136eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33ba4cf72dbsm16154136eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33ba4cf72dbsm16154136eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33ba4cf72dbsm16154136eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-33ba4cf72dbsm16154136eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sat, 12 Sep 2026 21:45:31 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <8XZh83PXU24q5dyT7FisLkuxq0luEemHo8TdXIEg6o@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> SAGAR BHOIR</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> sagarbhoir797@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9111777897</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1789229736 5a478bee46e88-33ba4cf72dbsm16154136eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-33ba4cf72dbsm16154136eec.3 - gsmtp
+DEBUG email raw: 'sagarbhoir797@gmail.com' | after trim: 'sagarbhoir797@gmail.com'
+=== 2026-09-12 21:49:12 ===
+Name: SAGAR BHOIR | Email: sagarbhoir797@gmail.com | Phone: +91 9111777897
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-33ba4cf72dbsm16169654eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-33ba4cf72dbsm16169654eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33ba4cf72dbsm16169654eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33ba4cf72dbsm16169654eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33ba4cf72dbsm16169654eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-33ba4cf72dbsm16169654eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sat, 12 Sep 2026 21:49:14 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <0sjIX1aaTZTiFdRhTUunIhn3z6YxUmrqkr0VBpiPA@crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> SAGAR BHOIR</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> sagarbhoir797@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9111777897</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1789229958 5a478bee46e88-33ba4cf72dbsm16169654eec.3 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-33ba4cf72dbsm16169654eec.3 - gsmtp
+DEBUG email raw: 'oroskar69@gmail.com' | after trim: 'oroskar69@gmail.com'
+=== 2026-09-20 09:34:04 ===
+Name: Sanjay | Email: oroskar69@gmail.com | Phone: +91 9136657325
+SMTP: SERVER -> CLIENT: 220 smtp.gmail.com ESMTP 5a478bee46e88-33c331d3f2csm8027394eec.28 - gsmtp
+SMTP: CLIENT -> SERVER: EHLO www.crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: STARTTLS
+SMTP: SERVER -> CLIENT: 220 2.0.0 Ready to start TLS
+SMTP: CLIENT -> SERVER: EHLO www.crestoriaestate.in
+SMTP: SERVER -> CLIENT: 250-smtp.gmail.com at your service, [103.235.104.200]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+SMTP: CLIENT -> SERVER: AUTH LOGIN
+SMTP: SERVER -> CLIENT: 334 VXNlcm5hbWU6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+SMTP: CLIENT -> SERVER: [credentials hidden]SMTP: SERVER -> CLIENT: 235 2.7.0 Accepted
+SMTP: CLIENT -> SERVER: MAIL FROM:<rock83694@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.0 OK 5a478bee46e88-33c331d3f2csm8027394eec.28 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<asif@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33c331d3f2csm8027394eec.28 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<hina@rubaruglobal.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33c331d3f2csm8027394eec.28 - gsmtp
+SMTP: CLIENT -> SERVER: RCPT TO:<thegrowthmonks@gmail.com>
+SMTP: SERVER -> CLIENT: 250 2.1.5 OK 5a478bee46e88-33c331d3f2csm8027394eec.28 - gsmtp
+SMTP: CLIENT -> SERVER: DATA
+SMTP: SERVER -> CLIENT: 354 Go ahead 5a478bee46e88-33c331d3f2csm8027394eec.28 - gsmtp
+SMTP: CLIENT -> SERVER: Date: Sun, 20 Sep 2026 09:34:06 +0530
+SMTP: CLIENT -> SERVER: To: asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com
+SMTP: CLIENT -> SERVER: From: Website Lead <rock83694@gmail.com>
+SMTP: CLIENT -> SERVER: Subject: New Lead - L&T Crestoria Estate Panvel
+SMTP: CLIENT -> SERVER: Message-ID: <2cE9QTz7Ge18xT66YdrjVrYU0O7e8n4d8vKGETjmrg@www.crestoriaestate.in>
+SMTP: CLIENT -> SERVER: X-Mailer: PHPMailer 6.8.0 (https://github.com/PHPMailer/PHPMailer)
+SMTP: CLIENT -> SERVER: MIME-Version: 1.0
+SMTP: CLIENT -> SERVER: Content-Type: text/html; charset=iso-8859-1
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER:                 <h2>New Lead Submission</h2>
+SMTP: CLIENT -> SERVER:                 <p><strong>Name:</strong> Sanjay</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Email:</strong> oroskar69@gmail.com</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Phone:</strong> +91 9136657325</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Best Time To Call:</strong> Not Specified</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Message:</strong> None</p>
+SMTP: CLIENT -> SERVER:                 <p><strong>Source:</strong> L&T Crestoria Estate Panvel Website</p>
+SMTP: CLIENT -> SERVER:             
+SMTP: CLIENT -> SERVER: 
+SMTP: CLIENT -> SERVER: .
+SMTP: SERVER -> CLIENT: 250 2.0.0 OK  1789877051 5a478bee46e88-33c331d3f2csm8027394eec.28 - gsmtp
+SMTP: CLIENT -> SERVER: QUIT
+SMTP: SERVER -> CLIENT: 221 2.0.0 closing connection 5a478bee46e88-33c331d3f2csm8027394eec.28 - gsmtp
