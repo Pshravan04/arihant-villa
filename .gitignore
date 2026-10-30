@@ -1,0 +1,12 @@
+# Archives & large files
+*.zip
+*.tar.gz
+*.rar
+
+# Raw image master files
+*.tif
+*.tiff
+
+# Scratch scripts
+*.ps1
+debug-log.txt

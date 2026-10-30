@@ -123,6 +123,14 @@
             backdrop-filter: blur(4px);
         }
 
+                .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
         /* Gallery lightbox */
         .lightbox-img {
             max-height: 80vh;
@@ -1114,43 +1122,278 @@
         </div>
     </section>
 
-    <!-- Gallery Section -->
-    <section id="gallery" class="py-10 lg:py-14 bg-navy">
+        <!-- Gallery Section -->
+    <section id="gallery" class="py-10 lg:py-14 bg-white relative overflow-hidden">
         <div class="container mx-auto px-4">
-            <div class="text-center mb-6 lg:mb-10">
-                <h2 class="font-heading text-3xl md:text-4xl font-bold text-[#B49D55] mb-4">World Villas
-                    Project
-                    Gallery</h2>
-                <p class="text-xl text-gray-800 font-body">Experience the luxury through our curated collection</p>
+            <!-- Section Header & Controls -->
+            <div class="flex flex-col md:flex-row md:items-end justify-between mb-8 gap-4">
+                <div>
+                    <div class="inline-block px-4 py-1.5 bg-[#B49D55]/10 text-[#B49D55] rounded-[2px] text-xs font-bold uppercase tracking-widest mb-3">
+                        Curated Visual Showcase
+                    </div>
+                    <h2 class="font-heading text-3xl md:text-5xl font-bold text-[#B49D55]">World Villas Project Gallery</h2>
+                    <p class="text-base md:text-lg text-gray-600 font-body mt-2 max-w-2xl">
+                        Experience the grand 63-acre luxury township through our high-definition architectural collection.
+                    </p>
+                </div>
+                <!-- Navigation Controls -->
+                <div class="flex items-center gap-3 shrink-0">
+                    <span class="text-xs text-gray-400 font-medium hidden sm:inline">Swipe or navigate</span>
+                    <button id="gallery-prev" aria-label="Previous Slide"
+                        class="w-11 h-11 rounded-[2px] border border-[#B49D55] text-[#B49D55] hover:bg-[#B49D55] hover:text-white flex items-center justify-center transition-all duration-300 shadow-sm active:scale-95">
+                        <i data-lucide="chevron-left" class="w-5 h-5"></i>
+                    </button>
+                    <button id="gallery-next" aria-label="Next Slide"
+                        class="w-11 h-11 rounded-[2px] bg-[#B49D55] text-white hover:bg-[#9e8742] flex items-center justify-center transition-all duration-300 shadow-md active:scale-95">
+                        <i data-lucide="chevron-right" class="w-5 h-5"></i>
+                    </button>
+                </div>
             </div>
 
-            <div class="grid md:grid-cols-3 lg:grid-cols-4 gap-6">
-                <div class="gallery-item cursor-pointer group" onclick="openLightbox(0)">
-                    <img src="assets/1.webp" alt="Exterior View"
-                        class="w-full aspect-square object-cover rounded-[2px] group-hover:scale-105 transition-transform duration-300">
+            <!-- Carousel Track -->
+            <div id="gallery-track"
+                class="flex gap-5 sm:gap-6 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-4 pt-1 no-scrollbar select-none cursor-grab active:cursor-grabbing">
+                
+                <!-- Slide 0: Grand Villa Elevation -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(0)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/gallery-villa-elevation.jpg" alt="Grand Villa Elevation" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Kothi Architecture</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Grand Villa Elevation</h4>
+                        </div>
+                    </div>
                 </div>
-                <div class="gallery-item cursor-pointer group" onclick="openLightbox(1)">
-                    <img src="assets/2.webp" alt="Main Entrance"
-                        class="w-full aspect-square object-cover rounded-[2px] group-hover:scale-105 transition-transform duration-300">
+
+                <!-- Slide 1: Grand Entrance Gate -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(1)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/gallery-entrance-gate.jpg" alt="Majestic Entrance Gate" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Grand Arrival</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Majestic Entrance Gateway</h4>
+                        </div>
+                    </div>
                 </div>
-                <div class="gallery-item cursor-pointer group" onclick="openLightbox(2)">
-                    <img src="assets/3.webp" alt="Towers"
-                        class="w-full aspect-square object-cover rounded-[2px] group-hover:scale-105 transition-transform duration-300">
+
+                <!-- Slide 2: Lush Street Boulevard -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(2)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/gallery-street-boulevard.jpg" alt="Lush Streetscape Boulevard" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Avenues & Boulevards</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Tree-Lined Villa Boulevard</h4>
+                        </div>
+                    </div>
                 </div>
-                <div class="gallery-item cursor-pointer group" onclick="openLightbox(3)">
-                    <img src="assets/4.webp" alt="Fountain Plaza"
-                        class="w-full aspect-square object-cover rounded-[2px] group-hover:scale-105 transition-transform duration-300">
+
+                <!-- Slide 3: Terrace Plunge Pool -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(3)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/amenity-terrace-pool.jpg" alt="Terrace Plunge Pool" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Villa Luxury</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Terrace Plunge Infinity Pool</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 4: Resort Beach Pool -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(4)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/amenity-beach-pool.jpg" alt="Resort Beach Pool" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Club & Wellness</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Tropical Resort Beach Pool</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 5: Gymkhana Open Dining -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(5)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/amenity-gymkhana-dining.jpg" alt="Gymkhana Open Dining" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Fine Dining</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Gymkhana Alfresco Dining</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 6: Golf Putting Greens -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(6)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/amenity-golf-putting.jpg" alt="Golf Putting Greens" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Sports & Leisure</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Championship Golf Putting</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 7: Open-Air Amphitheatre -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(7)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/amenity-amphitheatre.jpg" alt="Open-Air Amphitheatre" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Entertainment</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Grand Starlit Amphitheatre</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 8: Star Galaxy Lounge -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(8)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/amenity-star-galaxy.jpg" alt="Star Galaxy Lounge" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Observatory Deck</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Star Galaxy Stargazing Lounge</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 9: Bubbles Recreation Park -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(9)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/amenity-bubbles-park.jpg" alt="Bubbles Recreation Park" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Recreation</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Bubbles Park & Play Zone</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 10: Boulevard Promenade -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(10)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/amenity-boulevard.jpg" alt="Boulevard Promenade" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Township Roadways</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Scenic Boulevard Promenade</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 11: Nature Walking Trail -->
+                <div class="gallery-item flex-shrink-0 w-[84%] sm:w-[48%] md:w-[38%] lg:w-[31%] xl:w-[28%] snap-start cursor-pointer group relative rounded-[2px] overflow-hidden shadow-lg border border-[#B49D55]/20 bg-white"
+                    onclick="openGalleryLightbox(11)">
+                    <div class="aspect-[16/10] overflow-hidden relative">
+                        <img src="assets/amenity-walking-pathway.jpg" alt="Nature Walking Trail" loading="lazy"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-transparent opacity-80 group-hover:opacity-90 transition-opacity"></div>
+                        <div class="absolute top-3 right-3 w-8 h-8 rounded-[2px] bg-black/40 backdrop-blur-md flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity">
+                            <i data-lucide="zoom-in" class="w-4 h-4"></i>
+                        </div>
+                        <div class="absolute bottom-0 left-0 p-4 w-full">
+                            <span class="text-[10px] uppercase font-bold tracking-widest text-[#B49D55] bg-black/60 px-2 py-0.5 rounded-[2px] backdrop-blur-sm inline-block mb-1.5">Nature & Greenery</span>
+                            <h4 class="text-white font-bold text-base leading-tight">Lush Jogging & Walkway</h4>
+                        </div>
+                    </div>
                 </div>
 
             </div>
-        </div>
-        <div class="flex justify-center mt-6 lg:mt-10">
-            <button onclick="openPopup('View Full Gallery')"
-                class="animated-gradient-button block text-white font-semibold px-8 py-4 rounded-[2px] text-sm shadow-lg hover:opacity-90 transition duration-300">
-                View Full Gallery
-            </button>
+
+            <!-- Carousel Dots / Indicator -->
+            <div id="gallery-dots" class="flex items-center justify-center gap-1.5 mt-6"></div>
+
+            <div class="flex justify-center mt-8 lg:mt-10">
+                <button onclick="openPopup('View Full Gallery')"
+                    class="animated-gradient-button block text-white font-semibold px-8 py-4 rounded-[2px] text-sm shadow-lg hover:opacity-90 transition duration-300">
+                    Download Project Lookbook & Full Gallery
+                </button>
+            </div>
         </div>
     </section>
+
+    <!-- Gallery Lightbox Modal -->
+    <div id="gallery-lightbox" class="fixed inset-0 z-[120] hidden bg-black/95 backdrop-blur-md flex flex-col items-center justify-center p-4" onclick="if(event.target === this) closeGalleryLightbox()">
+        <button onclick="closeGalleryLightbox()" aria-label="Close Lightbox"
+            class="absolute top-4 right-4 z-50 text-white/80 hover:text-white bg-white/10 hover:bg-white/20 p-2.5 rounded-[2px] transition-all">
+            <i data-lucide="x" class="w-6 h-6"></i>
+        </button>
+        <button onclick="prevGalleryImage()" aria-label="Previous Image"
+            class="absolute left-3 md:left-6 top-1/2 -translate-y-1/2 z-50 text-white/80 hover:text-white bg-white/10 hover:bg-white/20 p-3 rounded-[2px] transition-all">
+            <i data-lucide="chevron-left" class="w-6 h-6"></i>
+        </button>
+        <button onclick="nextGalleryImage()" aria-label="Next Image"
+            class="absolute right-3 md:right-6 top-1/2 -translate-y-1/2 z-50 text-white/80 hover:text-white bg-white/10 hover:bg-white/20 p-3 rounded-[2px] transition-all">
+            <i data-lucide="chevron-right" class="w-6 h-6"></i>
+        </button>
+        <div class="max-w-5xl max-h-[82vh] flex flex-col items-center justify-center relative">
+            <img id="lightbox-img" src="" alt="Gallery Image" class="max-h-[75vh] w-auto max-w-full object-contain rounded-[2px] shadow-2xl">
+            <div class="mt-4 text-center">
+                <h3 id="lightbox-caption" class="text-white font-bold text-lg md:text-xl"></h3>
+                <p id="lightbox-counter" class="text-[#B49D55] text-xs font-semibold tracking-widest uppercase mt-1"></p>
+            </div>
+        </div>
+    </div>
 
 
 
@@ -1749,8 +1992,127 @@
         document.querySelectorAll('.reveal').forEach(el => {
             revealObserver.observe(el);
         });
-    </script>
 
+        // Gallery Carousel & Lightbox Logic
+        const galleryImages = [
+            { src: 'assets/gallery-villa-elevation.jpg', title: 'Grand Villa Elevation', category: 'Kothi Architecture' },
+            { src: 'assets/gallery-entrance-gate.jpg', title: 'Majestic Entrance Gateway', category: 'Grand Arrival' },
+            { src: 'assets/gallery-street-boulevard.jpg', title: 'Tree-Lined Villa Boulevard', category: 'Avenues & Boulevards' },
+            { src: 'assets/amenity-terrace-pool.jpg', title: 'Terrace Plunge Infinity Pool', category: 'Villa Luxury' },
+            { src: 'assets/amenity-beach-pool.jpg', title: 'Tropical Resort Beach Pool', category: 'Club & Wellness' },
+            { src: 'assets/amenity-gymkhana-dining.jpg', title: 'Gymkhana Alfresco Dining', category: 'Fine Dining' },
+            { src: 'assets/amenity-golf-putting.jpg', title: 'Championship Golf Putting', category: 'Sports & Leisure' },
+            { src: 'assets/amenity-amphitheatre.jpg', title: 'Grand Starlit Amphitheatre', category: 'Entertainment' },
+            { src: 'assets/amenity-star-galaxy.jpg', title: 'Star Galaxy Stargazing Lounge', category: 'Observatory Deck' },
+            { src: 'assets/amenity-bubbles-park.jpg', title: 'Bubbles Park & Play Zone', category: 'Recreation' },
+            { src: 'assets/amenity-boulevard.jpg', title: 'Scenic Boulevard Promenade', category: 'Township Roadways' },
+            { src: 'assets/amenity-walking-pathway.jpg', title: 'Lush Jogging & Walkway', category: 'Nature & Greenery' }
+        ];
+
+        let currentLightboxIndex = 0;
+        const galleryTrack = document.getElementById('gallery-track');
+        const galleryPrevBtn = document.getElementById('gallery-prev');
+        const galleryNextBtn = document.getElementById('gallery-next');
+        const galleryDots = document.getElementById('gallery-dots');
+
+        if (galleryTrack && galleryPrevBtn && galleryNextBtn) {
+            galleryPrevBtn.addEventListener('click', () => {
+                const scrollAmount = galleryTrack.clientWidth * 0.75;
+                galleryTrack.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+            });
+
+            galleryNextBtn.addEventListener('click', () => {
+                const scrollAmount = galleryTrack.clientWidth * 0.75;
+                galleryTrack.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+            });
+
+            // Initialize dots
+            if (galleryDots) {
+                galleryImages.forEach((_, idx) => {
+                    const dot = document.createElement('button');
+                    dot.setAttribute('aria-label', `Slide ${idx + 1}`);
+                    dot.className = `w-2 h-2 rounded-full transition-all duration-300 ${idx === 0 ? 'bg-[#B49D55] w-6' : 'bg-gray-300'}`;
+                    dot.addEventListener('click', () => {
+                        const items = galleryTrack.querySelectorAll('.gallery-item');
+                        if (items[idx]) {
+                            items[idx].scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'start' });
+                        }
+                    });
+                    galleryDots.appendChild(dot);
+                });
+
+                // Update active dot on scroll
+                galleryTrack.addEventListener('scroll', () => {
+                    const scrollLeft = galleryTrack.scrollLeft;
+                    const items = galleryTrack.querySelectorAll('.gallery-item');
+                    let activeIndex = 0;
+                    items.forEach((item, idx) => {
+                        if (item.offsetLeft - galleryTrack.offsetLeft <= scrollLeft + 50) {
+                            activeIndex = idx;
+                        }
+                    });
+                    const dots = galleryDots.querySelectorAll('button');
+                    dots.forEach((dot, idx) => {
+                        if (idx === activeIndex) {
+                            dot.className = 'w-6 h-2 rounded-full bg-[#B49D55] transition-all duration-300';
+                        } else {
+                            dot.className = 'w-2 h-2 rounded-full bg-gray-300 transition-all duration-300';
+                        }
+                    });
+                }, { passive: true });
+            }
+        }
+
+        function openGalleryLightbox(index) {
+            currentLightboxIndex = index;
+            updateGalleryLightbox();
+            const modal = document.getElementById('gallery-lightbox');
+            if (modal) {
+                modal.classList.remove('hidden');
+                document.body.style.overflow = 'hidden';
+            }
+            if (window.lucide) {
+                lucide.createIcons();
+            }
+        }
+
+        function closeGalleryLightbox() {
+            const modal = document.getElementById('gallery-lightbox');
+            if (modal) {
+                modal.classList.add('hidden');
+                document.body.style.overflow = '';
+            }
+        }
+
+        function prevGalleryImage() {
+            currentLightboxIndex = (currentLightboxIndex - 1 + galleryImages.length) % galleryImages.length;
+            updateGalleryLightbox();
+        }
+
+        function nextGalleryImage() {
+            currentLightboxIndex = (currentLightboxIndex + 1) % galleryImages.length;
+            updateGalleryLightbox();
+        }
+
+        function updateGalleryLightbox() {
+            const item = galleryImages[currentLightboxIndex];
+            const img = document.getElementById('lightbox-img');
+            const caption = document.getElementById('lightbox-caption');
+            const counter = document.getElementById('lightbox-counter');
+            if (img && item) img.src = item.src;
+            if (caption && item) caption.textContent = item.title;
+            if (counter) counter.textContent = `${currentLightboxIndex + 1} of ${galleryImages.length} | ${item.category}`;
+        }
+
+        // Global keydown listener for lightbox
+        document.addEventListener('keydown', (e) => {
+            const modal = document.getElementById('gallery-lightbox');
+            if (modal && !modal.classList.contains('hidden')) {
+                if (e.key === 'Escape') closeGalleryLightbox();
+                if (e.key === 'ArrowLeft') prevGalleryImage();
+                if (e.key === 'ArrowRight') nextGalleryImage();
+            }
+        });
     </script>
 </body>
 
