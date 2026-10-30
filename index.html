@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 
 <head>	
@@ -8,13 +8,13 @@
 
 
     <!-- Primary Meta Tags -->
-    <title>Arihant World Villas Panvel | Official Website | Luxury 4 & 6 BHK Villas</title>
+    <title>World Villas Panvel | Official Website | Luxury 4 & 6 BHK Villas</title>
     <link rel="icon" type="image/png" href="assets/arihant-world-villas-favicon.png">
-    <meta name="title" content="Arihant World Villas — Luxury 4 & 6 BHK Villas At Chowk, Panvel">
+    <meta name="title" content="World Villas — Luxury 4 & 6 BHK Villas At Chowk, Panvel">
     <meta name="description"
-        content="Arihant World Villas — Premium Luxury 4 & 6 BHK Villas by Arihant Superstructures Ltd.. Located at Chowk, Panvel, Navi Mumbai. Check Price, Floor Plans & Offers.">
+        content="World Villas — Premium Luxury 4 & 6 BHK Villas by Arihant Superstructures Ltd.. Located at Chowk, Panvel, Navi Mumbai. Check Price, Floor Plans & Offers.">
     <meta name="keywords"
-        content="Arihant World Villas Panvel, Arihant Superstructures Ltd. Panvel, Arihant World Villas, Arihant World Villas, Arihant World Villas, Arihant World Villas Panvel">
+        content="World Villas Panvel, Arihant Superstructures Ltd. Panvel, World Villas, World Villas, World Villas, World Villas Panvel">
 
     <meta name="robots" content="index, follow">
     <meta name="language" content="English">
@@ -66,10 +66,10 @@
     <style>
         :root {
             --primary-gold: #B49D55;
-            --brand-green: #8C3626;
+            --brand-gold: #B49D55;
             --text-dark: #1a1a1a;
-            --bg-cream: #FFF8DE;
-            --color-primary: #8C3626;
+            --bg-cream: #ffffff;
+            --color-primary: #B49D55;
             --color-accent: #B49D55;
             --color-secondary: #F8F9FA;
         }
@@ -81,7 +81,7 @@
         h1,
         h6 {
             font-family: 'Montserrat', serif;
-            color: #8C3626;
+            color: #1a1a1a;
         }
 
         /* Navbar transition */
@@ -298,18 +298,36 @@
             transform: scale(1.1) rotate(5deg);
             color: #8B6508;
         }
+            /* Sharp luxury architectural styling */
+        .premium-card,
+        .card-hover,
+        .rounded-\[2\.5rem\],
+        .rounded-\[2rem\],
+        .rounded-[2px],
+        .rounded-[2px],
+        .rounded-[2px],
+        .rounded-[2px],
+        .rounded-[2px],
+        .rounded {
+            border-radius: 2px !important;
+        }
+
+        button:not(.w-16):not(.h-16),
+        input,
+        select,
+        textarea {
+            border-radius: 2px !important;
+        }
     </style>
-
-
 </head>
 
-<body class="bg-[#FFF8DE] text-gray-900 font-body">
+<body class="bg-white text-gray-900 font-body">
 
 
 
     <!-- STICKY NAVBAR -->
     <nav id="navbar"
-        class="fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-white border-b border-[#8C3626]">
+        class="fixed top-0 left-0 right-0 z-[100] transition-all duration-300 bg-white border-b border-[#B49D55]">
         <div class=" max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center h-20">
                 <!-- Logo -->
@@ -320,50 +338,65 @@
                 </div>
 
                 <div class="hidden lg:flex items-center space-x-6">
-                    <a href="#hero" class="text-black hover:text-[#8C3626] font-semibold text-md">Home</a>
-                    <a href="#amenities" class="text-black hover:text-[#8C3626] font-semibold text-md">Amenities</a>
-                    <a href="#pricing" class="text-black hover:text-[#8C3626] font-semibold text-md">Price &
+                    <a href="#hero" class="text-black hover:text-[#B49D55] font-semibold text-md">Home</a>
+                    <a href="#amenities" class="text-black hover:text-[#B49D55] font-semibold text-md">Amenities</a>
+                    <a href="#pricing" class="text-black hover:text-[#B49D55] font-semibold text-md">Price &
                         Configurations</a>
-                    <a href="#floor-plans" class="text-black hover:text-[#8C3626] font-semibold text-md">Floor Plans</a>
-                    <a href="#gallery" class="text-black hover:text-[#8C3626] font-semibold text-md">Gallery</a>
-                    <a href="#location" class="text-black hover:text-[#8C3626] font-semibold text-md">Location</a>
+                    <a href="#floor-plans" class="text-black hover:text-[#B49D55] font-semibold text-md">Floor Plans</a>
+                    <a href="#gallery" class="text-black hover:text-[#B49D55] font-semibold text-md">Gallery</a>
+                    <a href="#location" class="text-black hover:text-[#B49D55] font-semibold text-md">Location</a>
                 </div>
 
-                <!-- CTA Button -->
-                <div class="hidden lg:block">
-
-                    <a href="#contact" onclick="openPopup('Download Brochure')"
-                        class="bg-[#8C3626] block text-center text-white px-6 py-2.5 rounded-full font-semibold text-sm shadow-lg hover:opacity-90 transition-all duration-300">
+                <!-- CTA Buttons -->
+                <div class="hidden lg:flex items-center space-x-3">
+                    <a href="tel:+919920666676" title="Call Now"
+                        class="border border-[#B49D55] text-[#B49D55] hover:bg-[#B49D55] hover:text-white p-2.5 rounded-[2px] font-semibold text-sm shadow-sm transition-all duration-300 flex items-center justify-center">
+                        <i data-lucide="phone" class="w-4 h-4"></i>
+                    </a>
+                    <a href="#contact" onclick="openPopup('Enquire Now')"
+                        class="bg-[#B49D55] hover:bg-[#9e8742] block text-center text-white px-6 py-2.5 rounded-[2px] font-semibold text-sm shadow-md hover:shadow-lg transition-all duration-300">
                         Enquire Now
                     </a>
                 </div>
 
                 <!-- Mobile Menu Button -->
-                <button id="mobile-menu-btn" class="lg:hidden text-black focus:outline-none">
-                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path id="menu-path" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M4 6h16M4 12h16M4 18h16">
-                        </path>
-                    </svg>
-                </button>
+                <div class="flex items-center space-x-2 lg:hidden">
+                    <a href="tel:+919920666676" title="Call Now"
+                        class="border border-[#B49D55] text-[#B49D55] hover:bg-[#B49D55] hover:text-white p-2 rounded-[2px] flex items-center justify-center">
+                        <i data-lucide="phone" class="w-4 h-4"></i>
+                    </a>
+                    <button id="mobile-menu-btn" class="text-black focus:outline-none p-1">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path id="menu-path" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M4 6h16M4 12h16M4 18h16">
+                            </path>
+                        </svg>
+                    </button>
+                </div>
             </div>
         </div>
 
         <!-- Mobile Menu -->
-        <div id="mobile-menu" class="hidden lg:hidden bg-white border-t border-[#8C3626]/20 shadow-lg">
+        <div id="mobile-menu" class="hidden lg:hidden bg-white border-t border-[#B49D55]/20 shadow-lg">
             <div class="px-4 pt-2 pb-4 space-y-2">
-                <a href="#hero" class="block text-black hover:text-[#8C3626] py-2 font-medium">Home</a>
-                <a href="#amenities" class="block text-black hover:text-[#8C3626] py-2 font-medium">Amenities</a>
-                <a href="#pricing" class="block text-black hover:text-[#8C3626] py-2 font-medium">Price &
+                <a href="#hero" class="block text-black hover:text-[#B49D55] py-2 font-medium">Home</a>
+                <a href="#amenities" class="block text-black hover:text-[#B49D55] py-2 font-medium">Amenities</a>
+                <a href="#pricing" class="block text-black hover:text-[#B49D55] py-2 font-medium">Price &
                     Configurations</a>
-                <a href="#floor-plans" class="block text-black hover:text-[#8C3626] py-2 font-medium">Floor Plans</a>
-                <a href="#gallery" class="block text-black hover:text-[#8C3626] py-2 font-medium">Gallery</a>
-                <a href="#location" class="block text-black hover:text-[#8C3626] py-2 font-medium">Location</a>
+                <a href="#floor-plans" class="block text-black hover:text-[#B49D55] py-2 font-medium">Floor Plans</a>
+                <a href="#gallery" class="block text-black hover:text-[#B49D55] py-2 font-medium">Gallery</a>
+                <a href="#location" class="block text-black hover:text-[#B49D55] py-2 font-medium">Location</a>
 
-                <a href="#contact" onclick="openPopup('Enquire Now')"
-                    class="bg-[#8C3626] block text-center text-white py-3 rounded-lg font-semibold mt-4 shadow-lg hover:opacity-90 transition-all duration-300">
-                    Enquire Now
-                </a>
+                <div class="flex gap-2 mt-4">
+                    <a href="tel:+919920666676"
+                        class="border border-[#B49D55] text-[#B49D55] flex items-center justify-center px-4 py-3 rounded-[2px] font-semibold shadow hover:bg-[#B49D55] hover:text-white transition-all">
+                        <i data-lucide="phone" class="w-4 h-4"></i>
+                    </a>
+                    <a href="#contact" onclick="openPopup('Enquire Now')"
+                        class="bg-[#B49D55] hover:bg-[#9e8742] flex-1 block text-center text-white py-3 rounded-[2px] font-semibold shadow transition-all duration-300">
+                        Enquire Now
+                    </a>
+                </div>
             </div>
         </div>
     </nav>
@@ -398,20 +431,14 @@
 
 
     <!-- Hero Section -->
-    <section id="hero" class="relative bg-[#FFF8DE] min-h-screen lg:h-screen w-full flex flex-col lg:block pt-[80px]">
+    <section id="hero" class="relative bg-white min-h-screen lg:h-screen w-full flex flex-col lg:block pt-[80px]">
         <!-- Hero Background Slider -->
         <div
             class="relative w-full aspect-square md:aspect-video lg:aspect-auto lg:absolute lg:inset-0 lg:h-full overflow-hidden flex-shrink-0">
             <div class="hero-slide active">
                 <picture class="w-full h-full">
                     <source media="(max-width: 1023px)" srcset="assets/World%20Villa%20Brochure-12vcv.png">
-                    <img src="assets/World Villa Brochure-12vcv.png" alt="Arihant World Villas Banner 2" class="w-full h-full object-cover">
-                </picture>
-            </div>
-            <div class="hero-slide">
-                <picture class="w-full h-full">
-                    <source media="(max-width: 1023px)" srcset="assets/World%20Villa%20Brochure-47.png">
-                    <img src="assets/World Villa Brochure-47.png" alt="Arihant World Villas Banner 3" class="w-full h-full object-cover">
+                    <img src="assets/World Villa Brochure-12vcv.png" alt="World Villas Banner" class="w-full h-full object-cover">
                 </picture>
             </div>
             <div class="absolute inset-0 hero-overlay"></div>
@@ -421,28 +448,28 @@
         <div
             class="relative lg:absolute lg:bottom-[15%] lg:left-4 md:lg:left-12 lg:lg:left-24 w-[95%] lg:w-[90%] max-w-sm lg:max-w-[380px] z-20 mx-auto mt-4 lg:mt-0">
             <div
-                class="premium-card p-4 lg:p-5 rounded-[2rem] lg:rounded-[2rem] shadow-2xl space-y-2.5 lg:space-y-2.5 text-center backdrop-blur-3xl bg-white border border-[#B49D55]/20">
+                class="premium-card p-4 lg:p-5 rounded-[2px] lg:rounded-[2px] shadow-2xl space-y-2.5 lg:space-y-2.5 text-center backdrop-blur-3xl bg-white border border-[#B49D55]/20">
                 <div class="space-y-0.5">
                     <p class="text-[9px] font-medium text-[#B49D55] uppercase tracking-[0.3em]">Exclusive New Launch</p>
-                    <h1 class="text-2xl md:text-[1.75rem] font-bold text-[#8C3626] tracking-tighter leading-none mt-1 mb-1">
-                        Arihant World Villas
+                    <h1 class="text-2xl md:text-[1.75rem] font-bold text-[#B49D55] tracking-tighter leading-none mt-1 mb-1">
+                        World Villas
                     </h1>
                     <div class="flex flex-col gap-0">
                         <p class="text-sm font-bold text-gray-800">by Arihant Superstructure</p>
-                        <p class="text-sm font-medium text-black tracking-widest uppercase mt-0.5">At Karjat Chowk</p>
+                        <p class="text-sm font-medium text-black tracking-widest uppercase mt-0.5">At Chowk Mumbai 3.O</p>
                     </div>
                 </div>
 
                 <div class="grid grid-cols-1 gap-1.5 mt-2">
                     <div
-                        class="bg-[#8C3626] shadow-md rounded-lg p-2 transform hover:scale-[1.02] transition-transform">
+                        class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform">
                         <p
                             class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2">
                             <span class="text-[#B49D55]">◆</span> Land Parcel 63 Acres
                         </p>
                     </div>
                     <div
-                        class="bg-[#8C3626] shadow-md rounded-lg p-2 transform hover:scale-[1.02] transition-transform">
+                        class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform">
                         <p
                             class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2">
                             <span class="text-[#B49D55]">◆</span> Lavish Delhi Kothi Style Villas
@@ -450,14 +477,14 @@
                     </div>
 
                     <div
-                        class="bg-[#8C3626] shadow-md rounded-lg p-2 transform hover:scale-[1.02] transition-transform flex items-center">
+                        class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform flex items-center">
                         <p
                             class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2 w-full text-center">
                             <span class="text-[#B49D55] shrink-0">◆</span> Payment Plan 20:20:20:40
                         </p>
                     </div>
                     <div
-                        class="bg-[#8C3626] shadow-md rounded-lg p-2 transform hover:scale-[1.02] transition-transform flex items-center">
+                        class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform flex items-center">
                         <p
                             class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2 w-full text-center">
                             <span class="text-[#B49D55] shrink-0">◆</span> Club 10 Gymkhana Memberships
@@ -471,76 +498,79 @@
                     </p>
                     <div class="flex items-baseline justify-center gap-2">
                         <span class="text-[#B49D55] text-xl font-black">₹</span>
-                        <span class="text-3xl font-bold text-[#8C3626]">4.50 Cr</span> <span
+                        <span class="text-3xl font-bold text-[#B49D55]">4.50 Cr</span> <span
                             class="text-gray-900 font-medium text-[9px] uppercase">Onwards</span>
                     </div>
                 </div>
 
                 <button onclick="openPopup('Download Brochure')"
-                    class="w-full animated-gradient-button text-white font-bold py-3 rounded-xl shadow-xl transition-all duration-500 uppercase tracking-[0.2em] text-[10px] hover:scale-[1.02]">
+                    class="w-full animated-gradient-button text-white font-bold py-3 rounded-[2px] shadow-xl transition-all duration-500 uppercase tracking-[0.2em] text-[10px] hover:scale-[1.02]">
                     Download Brochure
                 </button>
             </div>
         </div>
 
-        <!-- Horizontal Lead Form (Bottom-Center Overlap) -->
-        <div class="absolute -bottom-44 left-1/2 -translate-x-1/2 w-full max-w-6xl px-4 z-50 hidden lg:block">
-            <div class="bg-[#8C3626] p-6 rounded-[2.5rem] shadow-2xl border border-white/10 backdrop-blur-xl">
-                <div class="flex flex-row items-center gap-8">
-                    <div class="flex-shrink-0 border-r border-white/10 pr-8">
-                        <h3 class="text-white text-xl font-bold !text-white">Pre-Register here</h3>
-                        <p class="text-[#B49D55] text-[10px] font-bold uppercase tracking-widest">for Best Offer</p>
-                    </div>
-
-                    <form action="sendmail.php" method="POST" class="flex-1 flex flex-row gap-4">
-                        <div class="flex-1">
-                            <input type="text" name="name" placeholder="Full Name" required
-                                class="w-full bg-white/5 border border-white/10 rounded-xl px-5 py-4 text-sm text-white placeholder-gray-400 focus:bg-white/10 focus:border-[#B49D55] focus:outline-none transition-all border-l-4 border-l-[#B49D55]">
-                        </div>
-                        <div class="flex-1">
-                            <input type="tel" name="phone" placeholder="Phone Number" required
-                                class="w-full bg-white/5 border border-white/10 rounded-xl px-5 py-4 text-sm text-white placeholder-gray-400 focus:bg-white/10 focus:border-[#B49D55] focus:outline-none transition-all">
-                        </div>
-                        <div class="flex-1">
-                            <input type="email" name="email" placeholder="Email (Optional)"
-                                class="w-full bg-white/5 border border-white/10 rounded-xl px-5 py-4 text-sm text-white placeholder-gray-400 focus:bg-white/10 focus:border-[#B49D55] focus:outline-none transition-all">
-                        </div>
-                        <button type="submit"
-                            class="bg-[#B49D55] text-white font-bold px-10 rounded-xl shadow-xl hover:bg-[#B48F4C] transition-all flex items-center gap-3 whitespace-nowrap">
-                            <i data-lucide="download" class="w-4 h-4"></i>
-                            Brochure
-                        </button>
-                    </form>
-                </div>
-                <p class="text-center text-white/40 text-[9px] mt-4 uppercase tracking-[0.2em]">We respect your privacy.
-                    Your data is 100% secured.</p>
-            </div>
-        </div>
-
-        <div class="w-full px-4 pb-4 lg:hidden relative z-30 mt-4">
-            <div class="bg-[#8C3626] p-6 rounded-3xl shadow-xl mt-4 border border-white/10">
+        <!-- Mobile Quick Form -->
+        <div class="w-full px-4 pb-8 lg:hidden relative z-30 mt-6">
+            <div class="bg-[#B49D55] p-6 rounded-[2px] shadow-xl border border-white/20">
                 <div class="text-center mb-4">
-                    <h3 class="text-white text-xl font-bold !text-white">Pre-Register here</h3>
-                    <p class="text-[#B49D55] text-[10px] font-bold uppercase tracking-widest">for Best Offer</p>
+                    <h3 class="text-white text-xl font-bold !text-white">Book Site Visit</h3>
+                    <p class="text-white font-bold text-[10px] uppercase tracking-widest mt-1">for Best Offer</p>
                 </div>
                 <form action="sendmail.php" method="POST" class="space-y-4">
-                    <input type="text" name="name" placeholder="Name" required
-                        class="w-full bg-white/10 border border-white/20 rounded-xl p-4 text-white">
-                    <input type="tel" name="phone" placeholder="Phone" required
-                        class="w-full bg-white/10 border border-white/20 rounded-xl p-4 text-white">
+                    <input type="text" name="name" placeholder="Full Name" required
+                        class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] p-4 text-sm focus:outline-none shadow-sm">
+                    <input type="tel" name="phone" placeholder="Phone Number" required
+                        class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] p-4 text-sm focus:outline-none shadow-sm">
                     <button type="submit"
-                        class="w-full bg-[#B49D55] text-white py-4 rounded-xl font-bold uppercase tracking-widest text-xs">Unlock
+                        class="w-full bg-gray-900 hover:bg-black text-white py-4 rounded-[2px] font-bold uppercase tracking-widest text-xs transition-all shadow-md">Unlock
                         All Offers</button>
-                    <p class="text-center text-white/40 text-[9px] mt-2 uppercase tracking-widest">We respect your
+                    <p class="text-center text-white font-medium text-[10px] mt-2 uppercase tracking-widest">We respect your
                         privacy. Your data is 100% secured.</p>
                 </form>
             </div>
         </div>
     </section>
-    <section id="highlights" class="pt-8 lg:pt-52 pb-12 bg-[#FFF8DE]">
+
+    <!-- Horizontal Lead Form Banner (Flowing Overlap) -->
+    <div class="relative z-30 max-w-6xl mx-auto px-4 -mt-20 mb-12 hidden lg:block">
+        <div class="bg-[#B49D55] p-6 rounded-[2px] shadow-2xl border border-white/30 backdrop-blur-xl">
+            <div class="flex flex-row items-center gap-8">
+                <div class="flex-shrink-0 border-r border-white/20 pr-8">
+                    <h3 class="text-white text-xl font-bold !text-white">Book Site Visit</h3>
+                    <p class="text-white font-bold text-[10px] uppercase tracking-widest mt-1">for Best Offer</p>
+                </div>
+
+                <form action="sendmail.php" method="POST" class="flex-1 flex flex-row gap-4">
+                    <div class="flex-1">
+                        <input type="text" name="name" placeholder="Full Name" required
+                            class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] px-5 py-4 text-sm focus:outline-none focus:ring-2 focus:ring-black/20 shadow-sm transition-all border border-transparent">
+                    </div>
+                    <div class="flex-1">
+                        <input type="tel" name="phone" placeholder="Phone Number" required
+                            class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] px-5 py-4 text-sm focus:outline-none focus:ring-2 focus:ring-black/20 shadow-sm transition-all border border-transparent">
+                    </div>
+                    <div class="flex-1">
+                        <input type="email" name="email" placeholder="Email (Optional)"
+                            class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] px-5 py-4 text-sm focus:outline-none focus:ring-2 focus:ring-black/20 shadow-sm transition-all border border-transparent">
+                    </div>
+                    <button type="submit"
+                        class="bg-gray-900 hover:bg-black text-white font-bold px-10 rounded-[2px] shadow-xl hover:shadow-2xl transition-all flex items-center gap-3 whitespace-nowrap text-xs uppercase tracking-widest">
+                        <i data-lucide="download" class="w-4 h-4 text-[#B49D55]"></i>
+                        Brochure
+                    </button>
+                </form>
+            </div>
+            <p class="text-center text-white font-medium text-[10px] mt-4 uppercase tracking-[0.2em]">We respect your privacy.
+                Your data is 100% secured.</p>
+        </div>
+    </div>
+
+    <!-- Highlights Section -->
+    <section id="highlights" class="pt-4 lg:pt-6 pb-10 lg:pb-12 bg-white">
         <div class="container mx-auto px-4">
             <div class="text-center mb-6 lg:mb-10">
-                <h2 class="font-heading text-3xl md:text-4xl font-bold text-[#8C3626] mb-3">Arihant World Villas Project
+                <h2 class="font-heading text-3xl md:text-4xl font-bold text-[#B49D55] mb-3">World Villas Project
                     Highlights</h2>
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">Exceptional features that define luxury living. Ultra-Premium
                     Luxury Amenities.</p>
@@ -551,153 +581,182 @@
                 </div>
             </div>
 
-            <div class="flex overflow-x-auto lg:grid lg:grid-cols-4 gap-4 pb-6 lg:pb-0 snap-x no-scrollbar">
-                <!-- Highlight 1 -->
+                                                <div class="flex overflow-x-auto lg:grid lg:grid-cols-4 gap-6 pb-6 lg:pb-0 snap-x no-scrollbar">
+                <!-- Highlight 1: 5-Star Hotel -->
                 <div
-                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto p-6 rounded-2xl flex flex-col items-center text-center group snap-center">
-                    <div
-                        class="w-12 h-12 bg-[#B49D55]/10 rounded-xl flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/20 transition-colors">
-                        <i data-lucide="map" class="text-[#8C3626] w-6 h-6 transition-transform"></i>
+                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto rounded-[2px] overflow-hidden flex flex-col group snap-center bg-white border border-[#B49D55]/25 hover:shadow-xl transition-all">
+                    <div class="h-44 w-full overflow-hidden relative">
+                        <img src="assets/2.webp" alt="5-Star Hotel"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        <div class="absolute top-2.5 right-2.5 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-[2px] flex items-center justify-center shadow-sm">
+                            <i data-lucide="hotel" class="text-[#B49D55] w-4 h-4"></i>
+                        </div>
                     </div>
-                    <h3 class="font-heading text-base font-bold text-gray-800 mb-1">63 Acre High Society Address</h3>
-                    <p class="text-xs text-gray-600">Featuring Delhi Kothi Style Themed Villas</p>
+                    <div class="p-5 flex flex-col items-center text-center">
+                        <h3 class="font-heading text-base font-bold text-gray-900 mb-1">5-Star Hotel</h3>
+                        <p class="text-xs text-gray-600">Exclusive Luxury Hospitality & Suites</p>
+                    </div>
                 </div>
 
-                <!-- Highlight 2 -->
+                <!-- Highlight 2: Mumbai's Biggest Gymkhana -->
                 <div
-                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto p-6 rounded-2xl flex flex-col items-center text-center group snap-center">
-                    <div
-                        class="w-12 h-12 bg-[#B49D55]/10 rounded-xl flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/20 transition-colors">
-                        <i data-lucide="tree-pine" class="text-[#8C3626] w-6 h-6 transition-transform"></i>
+                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto rounded-[2px] overflow-hidden flex flex-col group snap-center bg-white border border-[#B49D55]/25 hover:shadow-xl transition-all">
+                    <div class="h-44 w-full overflow-hidden relative">
+                        <img src="assets/sports-arena.webp" alt="Mumbai's Biggest Gymkhana"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        <div class="absolute top-2.5 right-2.5 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-[2px] flex items-center justify-center shadow-sm">
+                            <i data-lucide="trophy" class="text-[#B49D55] w-4 h-4"></i>
+                        </div>
                     </div>
-                    <h3 class="font-heading text-base font-bold text-gray-800 mb-1">Forest Grove</h3>
-                    <p class="text-xs text-gray-600">6 Acre Mango Tree Woodland</p>
+                    <div class="p-5 flex flex-col items-center text-center">
+                        <h3 class="font-heading text-base font-bold text-gray-900 mb-1">Mumbai's Biggest Gymkhana</h3>
+                        <p class="text-xs text-gray-600">Elite Sports, Fitness & Lifestyle Club</p>
+                    </div>
                 </div>
 
-                <!-- Highlight 3 -->
+                <!-- Highlight 3: Banquet Hall -->
                 <div
-                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto p-6 rounded-2xl flex flex-col items-center text-center group snap-center">
-                    <div
-                        class="w-12 h-12 bg-[#B49D55]/10 rounded-xl flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/20 transition-colors">
-                        <i data-lucide="map-pin" class="text-[#8C3626] w-6 h-6 transition-transform"></i>
+                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto rounded-[2px] overflow-hidden flex flex-col group snap-center bg-white border border-[#B49D55]/25 hover:shadow-xl transition-all">
+                    <div class="h-44 w-full overflow-hidden relative">
+                        <img src="assets/banquet-hall.webp" alt="Banquet Hall"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        <div class="absolute top-2.5 right-2.5 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-[2px] flex items-center justify-center shadow-sm">
+                            <i data-lucide="sparkles" class="text-[#B49D55] w-4 h-4"></i>
+                        </div>
                     </div>
-                    <h3 class="font-heading text-base font-bold text-gray-800 mb-1">Serene Bay</h3>
-                    <p class="text-xs text-gray-600">1 km Riverside Promenade</p>
+                    <div class="p-5 flex flex-col items-center text-center">
+                        <h3 class="font-heading text-base font-bold text-gray-900 mb-1">Banquet Hall</h3>
+                        <p class="text-xs text-gray-600">Grand Celebrations & Event Spaces</p>
+                    </div>
                 </div>
 
-                <!-- Highlight 4 -->
+                <!-- Highlight 4: Premium Retail -->
                 <div
-                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto p-6 rounded-2xl flex flex-col items-center text-center group snap-center">
-                    <div
-                        class="w-12 h-12 bg-[#B49D55]/10 rounded-xl flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/20 transition-colors">
-                        <i data-lucide="droplets" class="text-[#8C3626] w-6 h-6 transition-transform"></i>
+                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto rounded-[2px] overflow-hidden flex flex-col group snap-center bg-white border border-[#B49D55]/25 hover:shadow-xl transition-all">
+                    <div class="h-44 w-full overflow-hidden relative">
+                        <img src="assets/cafe.webp" alt="Premium Retail"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        <div class="absolute top-2.5 right-2.5 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-[2px] flex items-center justify-center shadow-sm">
+                            <i data-lucide="shopping-bag" class="text-[#B49D55] w-4 h-4"></i>
+                        </div>
                     </div>
-                    <h3 class="font-heading text-base font-bold text-gray-800 mb-1">White Waters</h3>
-                    <p class="text-xs text-gray-600">The all season waterfall</p>
+                    <div class="p-5 flex flex-col items-center text-center">
+                        <h3 class="font-heading text-base font-bold text-gray-900 mb-1">Premium Retail</h3>
+                        <p class="text-xs text-gray-600">High-Street Shopping & Cafes</p>
+                    </div>
                 </div>
 
-                <!-- Highlight 5 -->
+                <!-- Highlight 5: Commercial Building -->
                 <div
-                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto p-6 rounded-2xl flex flex-col items-center text-center group snap-center">
-                    <div
-                        class="w-12 h-12 bg-[#B49D55]/10 rounded-xl flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/20 transition-colors">
-                        <i data-lucide="footprints" class="text-[#8C3626] w-6 h-6 transition-transform"></i>
+                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto rounded-[2px] overflow-hidden flex flex-col group snap-center bg-white border border-[#B49D55]/25 hover:shadow-xl transition-all">
+                    <div class="h-44 w-full overflow-hidden relative">
+                        <img src="assets/3.webp" alt="Commercial Building"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        <div class="absolute top-2.5 right-2.5 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-[2px] flex items-center justify-center shadow-sm">
+                            <i data-lucide="building-2" class="text-[#B49D55] w-4 h-4"></i>
+                        </div>
                     </div>
-                    <h3 class="font-heading text-base font-bold text-gray-800 mb-1">The Walk</h3>
-                    <p class="text-xs text-gray-600">Elevated Walking Track</p>
+                    <div class="p-5 flex flex-col items-center text-center">
+                        <h3 class="font-heading text-base font-bold text-gray-900 mb-1">Commercial Building</h3>
+                        <p class="text-xs text-gray-600">Modern Corporate & Business Spaces</p>
+                    </div>
                 </div>
 
-                <!-- Highlight 6 -->
+                <!-- Highlight 6: River -->
                 <div
-                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto p-6 rounded-2xl flex flex-col items-center text-center group snap-center">
-                    <div
-                        class="w-12 h-12 bg-[#B49D55]/10 rounded-xl flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/20 transition-colors">
-                        <i data-lucide="building-2" class="text-[#8C3626] w-6 h-6 transition-transform"></i>
+                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto rounded-[2px] overflow-hidden flex flex-col group snap-center bg-white border border-[#B49D55]/25 hover:shadow-xl transition-all">
+                    <div class="h-44 w-full overflow-hidden relative">
+                        <img src="assets/riverside-promenade.webp" alt="River"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        <div class="absolute top-2.5 right-2.5 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-[2px] flex items-center justify-center shadow-sm">
+                            <i data-lucide="waves" class="text-[#B49D55] w-4 h-4"></i>
+                        </div>
                     </div>
-                    <h3 class="font-heading text-base font-bold text-gray-800 mb-1">5-Star Hotel & Spa</h3>
-                    <p class="text-xs text-gray-600">Exclusive Luxury Lifestyle</p>
-                </div>
-                <!-- Highlight 7 -->
-                <div
-                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto p-6 rounded-2xl flex flex-col items-center text-center group snap-center">
-                    <div
-                        class="w-12 h-12 bg-[#B49D55]/10 rounded-xl flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/20 transition-colors">
-                        <i data-lucide="film" class="text-[#8C3626] w-6 h-6 transition-transform"></i>
+                    <div class="p-5 flex flex-col items-center text-center">
+                        <h3 class="font-heading text-base font-bold text-gray-900 mb-1">River</h3>
+                        <p class="text-xs text-gray-600">Scenic Natural Riverside Promenade</p>
                     </div>
-                    <h3 class="font-heading text-base font-bold text-gray-800 mb-1">Below-the-sky Cinema</h3>
-                    <p class="text-xs text-gray-600">At Celebration Plaza & amphitheatre</p>
                 </div>
 
-                <!-- Highlight 8 -->
+                <!-- Highlight 7: Tree Orchard -->
                 <div
-                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto p-6 rounded-2xl flex flex-col items-center text-center group snap-center">
-                    <div
-                        class="w-12 h-12 bg-[#B49D55]/10 rounded-xl flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/20 transition-colors">
-                        <i data-lucide="plane" class="text-[#8C3626] w-6 h-6 transition-transform"></i>
+                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto rounded-[2px] overflow-hidden flex flex-col group snap-center bg-white border border-[#B49D55]/25 hover:shadow-xl transition-all">
+                    <div class="h-44 w-full overflow-hidden relative">
+                        <img src="assets/tree-garden.webp" alt="Tree Orchard"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        <div class="absolute top-2.5 right-2.5 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-[2px] flex items-center justify-center shadow-sm">
+                            <i data-lucide="trees" class="text-[#B49D55] w-4 h-4"></i>
+                        </div>
                     </div>
-                    <h3 class="font-heading text-base font-bold text-gray-800 mb-1">Connectivity Hub</h3>
-                    <p class="text-xs text-gray-600">Near NMIA Airport & Atal Setu</p>
+                    <div class="p-5 flex flex-col items-center text-center">
+                        <h3 class="font-heading text-base font-bold text-gray-900 mb-1">Tree Orchard</h3>
+                        <p class="text-xs text-gray-600">Lush Green Plantation & Mango Groves</p>
+                    </div>
                 </div>
 
+                <!-- Highlight 8: Prime Location -->
+                <div
+                    class="premium-card flex-shrink-0 w-[280px] lg:w-auto rounded-[2px] overflow-hidden flex flex-col group snap-center bg-white border border-[#B49D55]/25 hover:shadow-xl transition-all">
+                    <div class="h-44 w-full overflow-hidden relative">
+                        <img src="assets/locationmap.webp" alt="Prime Location"
+                            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
+                        <div class="absolute top-2.5 right-2.5 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-[2px] flex items-center justify-center shadow-sm">
+                            <i data-lucide="map-pin" class="text-[#B49D55] w-4 h-4"></i>
+                        </div>
+                    </div>
+                    <div class="p-5 flex flex-col items-center text-center">
+                        <h3 class="font-heading text-base font-bold text-gray-900 mb-1">Prime Location</h3>
+                        <p class="text-xs text-gray-600">At Chowk Mumbai 3.O, Near Expressway</p>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="flex justify-center mt-12">
+        <div class="flex justify-center mt-8 lg:mt-10">
             <button onclick="openPopup()"
-                class="animated-gradient-button text-white font-semibold px-8 py-4 rounded-lg text-sm shadow-lg hover:opacity-90 transition duration-300">
+                class="animated-gradient-button text-white font-semibold px-8 py-4 rounded-[2px] text-sm shadow-lg hover:opacity-90 transition duration-300">
                 Know Overview
             </button>
         </div>
     </section>
 
     <!-- About Section -->
-    <section id="about" class="py-12 lg:py-24 bg-[#FFF8DE] relative overflow-hidden">
+    <section id="about" class="py-10 lg:py-14 bg-white relative overflow-hidden">
         <div class="container mx-auto px-4 relative z-10">
             <div class="flex flex-col lg:flex-row items-center gap-12 lg:gap-0">
                 <!-- Image with Offset Frame -->
                 <div class="w-full lg:w-3/5 relative group">
                     <div
-                        class="absolute -inset-4 border-2 border-[#B49D55]/30 rounded-3xl translate-x-4 translate-y-4 group-hover:translate-x-2 group-hover:translate-y-2 transition-transform duration-500">
+                        class="absolute -inset-4 border-2 border-[#B49D55]/30 rounded-[2px] translate-x-4 translate-y-4 group-hover:translate-x-2 group-hover:translate-y-2 transition-transform duration-500">
                     </div>
-                    <div class="relative overflow-hidden rounded-3xl shadow-2xl">
-                        <img src="assets/1.webp" alt="Arihant World Villas Sky-High Living"
+                    <div class="relative overflow-hidden rounded-[2px] shadow-2xl">
+                        <img src="assets/1.webp" alt="World Villas Sky-High Living"
                             class="w-full h-auto transform group-hover:scale-105 transition-transform duration-700">
                     </div>
                 </div>
 
                 <!-- Overlapping Glassmorphic Text Card -->
                 <div class="w-full lg:w-1/2 lg:-ml-24 relative z-20">
-                    <div class="premium-card p-6 lg:p-8 rounded-[2rem] shadow-2xl border-white/40 bg-white">
+                    <div class="premium-card p-6 lg:p-8 rounded-[2px] shadow-2xl border-white/40 bg-white">
                         <div
-                            class="inline-block px-4 py-1.5 bg-[#8C3626]/10 text-[#8C3626] rounded-full text-[10px] font-bold uppercase tracking-widest mb-4">
+                            class="inline-block px-4 py-1.5 bg-[#B49D55]/10 text-[#B49D55] rounded-[2px] text-[10px] font-bold uppercase tracking-widest mb-4">
                             Legacy of Excellence
                         </div>
-                        <h2 class="font-heading text-2xl md:text-4xl font-bold text-[#8C3626] mb-4 leading-tight">
-                            About Arihant World Villas
+                        <h2 class="font-heading text-2xl md:text-4xl font-bold text-[#B49D55] mb-4 leading-tight">
+                            About World Villas
                         </h2>
                         <div class="space-y-4">
                             <p class="text-sm md:text-base text-gray-700 font-body leading-relaxed">
-                                Arihant World Villas is an ambitious riverfront township in Chowk, Karjat, offering meticulously designed G+1 storey villas with maximum space, servant quarters, and wide balconies. Residents enjoy access to an elite Gymkhana and ultra-premium amenities, including a private forest, Olympic-sized swimming pool, sports arena, resort, and an integrated shopping mall.
+                                World Villas is an ambitious riverfront township in Chowk, Karjat, offering meticulously designed G+1 storey villas with maximum space, servant quarters, and wide balconies. Residents enjoy access to an elite Gymkhana and ultra-premium amenities, including a private forest, Olympic-sized swimming pool, sports arena, resort, and an integrated shopping mall.
                             </p>
                             <p class="text-sm md:text-base text-gray-700 font-body leading-relaxed">
                                 The 63-acre township boasts excellent connectivity via the Mumbai-Pune Expressway and the upcoming Chowk railway station. Top schools, hospitals, and landmarks like ND Studios and Morbe Dam are just minutes away. Live an exquisite lifestyle surrounded by the serene landscapes of Karjat.
                             </p>
                         </div>
 
-                        <div class="grid grid-cols-2 gap-8 my-6 py-6 border-y border-gray-100">
-                            <div>
-                                <h4 class="text-[10px] uppercase tracking-widest text-[#8C3626] font-bold mb-1">
-                                    Architecture</h4>
-                                <p class="text-xl font-heading font-black text-gray-900">G+1 Storey Villas</p>
-                            </div>
-                            <div>
-                                <h4 class="text-[10px] uppercase tracking-widest text-[#8C3626] font-bold mb-1">Township
-                                    Area</h4>
-                                <p class="text-xl font-heading font-black text-gray-900">Expansive</p>
-                            </div>
-                        </div>
+                        
 
                         <button onclick="openPopup('Get Brochure')"
-                            class="animated-gradient-button text-white font-bold px-8 py-3.5 rounded-xl text-xs shadow-xl hover:scale-[1.02] transition-all flex items-center gap-3">
+                            class="animated-gradient-button text-white font-bold px-8 py-3.5 rounded-[2px] text-xs shadow-xl hover:scale-[1.02] transition-all flex items-center gap-3">
                             <i data-lucide="download" class="w-4 h-4"></i>
                             Download Brochure
                         </button>
@@ -715,23 +774,23 @@
 
 
     <!-- Master Plan Section -->
-    <section id="master-plan" class="py-12 lg:py-24 bg-[#FFF8DE] relative overflow-hidden">
+    <section id="master-plan" class="py-10 lg:py-14 bg-white relative overflow-hidden">
         <div class="container mx-auto px-4 relative z-10">
-            <div class="text-center mb-8 lg:mb-16 reveal">
+            <div class="text-center mb-6 lg:mb-10 reveal">
                 <span class="text-[#B49D55] font-bold uppercase tracking-widest text-xs">Architectural Excellence</span>
-                <h2 class="font-heading text-3xl md:text-5xl font-bold mt-4 mb-6">Master Layout</h2>
+                <h2 class="font-heading text-3xl md:text-5xl font-bold mt-2 mb-4">Master Layout</h2>
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">Explore the sprawling 63-acre development of
-                    Arihant World Villas in Chowk, Karjat, featuring open spaces and Spanish courtyards.</p>
+                    World Villas in Chowk, Karjat, featuring open spaces and Spanish courtyards.</p>
             </div>
 
             <div class="max-w-5xl mx-auto">
                 <div class="relative group reveal">
                     <div
-                        class="absolute -inset-4 border-2 border-[#B49D55]/30 rounded-[2.5rem] translate-x-4 translate-y-4">
+                        class="absolute -inset-4 border-2 border-[#B49D55]/30 rounded-[2px] translate-x-4 translate-y-4">
                     </div>
-                    <div class="premium-card p-4 rounded-[2rem] overflow-hidden shadow-2xl relative bg-white">
-                        <div class="aspect-[16/9] bg-gray-100 relative group overflow-hidden rounded-2xl">
-                            <img src="assets/masterplan.webp" alt="Arihant World Villas Master Plan"
+                    <div class="premium-card p-4 rounded-[2px] overflow-hidden shadow-2xl relative bg-white">
+                        <div class="aspect-[16/9] bg-gray-100 relative group overflow-hidden rounded-[2px]">
+                            <img src="assets/masterplan.jpg" alt="World Villas Master Plan"
                                 class="w-full h-auto object-contain blur-md group-hover:blur-sm transition-all duration-500">
                             <div
                                 class="absolute inset-0 bg-black/30 flex flex-col items-center justify-center text-center p-6">
@@ -741,7 +800,7 @@
                                 </div>
                                 <h3 class="text-white text-xl font-bold mb-6">Full Master Plan Locked</h3>
                                 <button onclick="openPopup('Request Master Plan')"
-                                    class="animated-gradient-button text-white font-bold py-3 px-8 rounded-full text-xs uppercase tracking-widest">
+                                    class="animated-gradient-button text-white font-bold py-3 px-8 rounded-[2px] text-xs uppercase tracking-widest">
                                     Request Full Plan
                                 </button>
                             </div>
@@ -753,59 +812,59 @@
     </section>
 
     <!-- Pricing & Configurations Section -->
-    <section id="pricing" class="py-12 lg:py-24 bg-white relative overflow-hidden">
+    <section id="pricing" class="py-10 lg:py-14 bg-white relative overflow-hidden">
         <div class="container mx-auto px-4 relative z-10">
-            <div class="text-center mb-8 lg:mb-16 reveal">
+            <div class="text-center mb-6 lg:mb-10 reveal">
                 <span class="text-[#B49D55] font-bold uppercase tracking-widest text-xs">Investment Summary</span>
-                <h2 class="font-heading text-3xl md:text-5xl font-bold mt-4 mb-6">Pricing & Configuration</h2>
+                <h2 class="font-heading text-3xl md:text-5xl font-bold mt-2 mb-4">Pricing & Configuration</h2>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
                 <!-- 4 BHK -->
                 <div
-                    class="bg-[#FFF8DE]/50 border border-[#B49D55]/20 rounded-[2rem] p-8 space-y-6 hover:shadow-2xl transition-all reveal">
-                    <h3 class="text-xl font-bold border-b border-[#B49D55]/10 pb-4 text-[#8C3626]">4 BHK Villa</h3>
+                    class="bg-white border border-[#B49D55]/30 rounded-[2px] p-8 space-y-6 hover:shadow-2xl transition-all reveal">
+                    <h3 class="text-xl font-bold border-b border-[#B49D55]/10 pb-4 text-[#B49D55]">4 BHK Villa</h3>
                     <div class="space-y-3">
-                        <div class="flex justify-between text-sm"><span class="text-[#8C3626]/70">Carpet
-                                Area</span><span class="font-bold text-[#8C3626]">2400 Sq.Ft.</span></div>
-                        <div class="flex justify-between items-center"><span class="text-[#8C3626]/70 text-sm">Starts
-                                From</span><span class="text-[#8C3626] font-bold text-lg">₹4.50 Cr</span>
+                        <div class="flex justify-between text-sm"><span class="text-gray-500">Carpet
+                                Area</span><span class="font-bold text-[#B49D55]">2400 Sq.Ft.</span></div>
+                        <div class="flex justify-between items-center"><span class="text-gray-500 text-sm">Starts
+                                From</span><span class="text-[#B49D55] font-bold text-lg">₹4.50 Cr</span>
                         </div>
                     </div>
                     <button onclick="openPopup('Get 4 BHK Cost Sheet')"
-                        class="w-full py-4 bg-[#8C3626] text-white font-bold rounded-xl hover:bg-[#6b291d] transition-all flex items-center justify-center gap-2 text-xs">
+                        class="w-full py-4 bg-[#B49D55] text-white font-bold rounded-[2px] hover:bg-[#9e8742] transition-all flex items-center justify-center gap-2 text-xs">
                         <i data-lucide="file-text" class="w-4 h-4"></i> Cost Sheet
                     </button>
                 </div>
                 <!-- 6 BHK -->
                 <div
-                    class="bg-[#FFF8DE]/50 border border-[#B49D55]/20 rounded-[2rem] p-8 space-y-6 hover:shadow-2xl transition-all reveal">
-                    <h3 class="text-xl font-bold border-b border-[#B49D55]/10 pb-4 text-[#8C3626]">6 BHK Villa</h3>
+                    class="bg-white border border-[#B49D55]/30 rounded-[2px] p-8 space-y-6 hover:shadow-2xl transition-all reveal">
+                    <h3 class="text-xl font-bold border-b border-[#B49D55]/10 pb-4 text-[#B49D55]">6 BHK Villa</h3>
                     <div class="space-y-3">
-                        <div class="flex justify-between text-sm"><span class="text-[#8C3626]/70">Carpet
-                                Area</span><span class="font-bold text-[#8C3626]">4800 Sq.Ft.</span></div>
-                        <div class="flex justify-between items-center"><span class="text-[#8C3626]/70 text-sm">Starts
-                                From</span><span class="text-[#8C3626] font-bold text-lg">Price On Request</span>
+                        <div class="flex justify-between text-sm"><span class="text-gray-500">Carpet
+                                Area</span><span class="font-bold text-[#B49D55]">4800 Sq.Ft.</span></div>
+                        <div class="flex justify-between items-center"><span class="text-gray-500 text-sm">Starts
+                                From</span><span class="text-[#B49D55] font-bold text-lg">Price On Request</span>
                         </div>
                     </div>
                     <button onclick="openPopup('Get 6 BHK Cost Sheet')"
-                        class="w-full py-4 bg-[#8C3626] text-white font-bold rounded-xl hover:bg-[#6b291d] transition-all flex items-center justify-center gap-2 text-xs">
+                        class="w-full py-4 bg-[#B49D55] text-white font-bold rounded-[2px] hover:bg-[#9e8742] transition-all flex items-center justify-center gap-2 text-xs">
                         <i data-lucide="file-text" class="w-4 h-4"></i> Cost Sheet
                     </button>
                 </div>
                 <!-- Custom Villa -->
                 <div
-                    class="bg-[#FFF8DE]/50 border border-[#B49D55]/20 rounded-[2rem] p-8 space-y-6 hover:shadow-2xl transition-all reveal">
-                    <h3 class="text-xl font-bold border-b border-[#B49D55]/10 pb-4 text-[#8C3626]">Custom Villa</h3>
+                    class="bg-white border border-[#B49D55]/30 rounded-[2px] p-8 space-y-6 hover:shadow-2xl transition-all reveal">
+                    <h3 class="text-xl font-bold border-b border-[#B49D55]/10 pb-4 text-[#B49D55]">Custom Villa</h3>
                     <div class="space-y-3">
-                        <div class="flex justify-between text-sm"><span class="text-[#8C3626]/70">Carpet
-                                Area</span><span class="font-bold text-[#8C3626]">Custom Sq.Ft.</span></div>
-                        <div class="flex justify-between items-center"><span class="text-[#8C3626]/70 text-sm">Starts
-                                From</span><span class="text-[#8C3626] font-bold text-lg">Price On Request</span>
+                        <div class="flex justify-between text-sm"><span class="text-gray-500">Carpet
+                                Area</span><span class="font-bold text-[#B49D55]">Custom Sq.Ft.</span></div>
+                        <div class="flex justify-between items-center"><span class="text-gray-500 text-sm">Starts
+                                From</span><span class="text-[#B49D55] font-bold text-lg">Price On Request</span>
                         </div>
                     </div>
                     <button onclick="openPopup('Get Custom Villa Cost Sheet')"
-                        class="w-full py-4 bg-[#8C3626] text-white font-bold rounded-xl hover:bg-[#6b291d] transition-all flex items-center justify-center gap-2 text-xs">
+                        class="w-full py-4 bg-[#B49D55] text-white font-bold rounded-[2px] hover:bg-[#9e8742] transition-all flex items-center justify-center gap-2 text-xs">
                         <i data-lucide="file-text" class="w-4 h-4"></i> Cost Sheet
                     </button>
                 </div>
@@ -814,26 +873,26 @@
     </section>
 
     <!-- Floor Plans Section -->
-    <section id="floor-plans" class="py-12 lg:py-24 bg-[#FFF8DE] relative overflow-hidden">
+    <section id="floor-plans" class="py-10 lg:py-14 bg-white relative overflow-hidden">
         <div class="container mx-auto px-4 relative z-10">
-            <div class="text-center mb-8 lg:mb-16 reveal">
+            <div class="text-center mb-6 lg:mb-10 reveal">
                 <span class="text-[#B49D55] font-bold uppercase tracking-widest text-xs">Unit Layouts</span>
-                <h2 class="font-heading text-3xl md:text-5xl font-bold mt-4 mb-6">Floor Plans</h2>
+                <h2 class="font-heading text-3xl md:text-5xl font-bold mt-2 mb-4">Floor Plans</h2>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
                 <!-- 4 BHK Plan -->
                 <div class="relative group reveal">
-                    <div class="premium-card p-4 rounded-[2rem] bg-white shadow-xl relative overflow-hidden">
+                    <div class="premium-card p-4 rounded-[2px] bg-white shadow-xl relative overflow-hidden">
                         <div
-                            class="aspect-square bg-gray-50 rounded-2xl relative overflow-hidden flex items-center justify-center">
+                            class="aspect-square bg-gray-50 rounded-[2px] relative overflow-hidden flex items-center justify-center">
                             <img src="assets/4bhk-2400.webp" alt="4BHK Plan"
                                 class="w-full h-full object-cover blur-sm">
                             <div
                                 class="absolute inset-0 bg-black/40 flex flex-col items-center justify-center text-center p-4">
                                 <h4 class="text-white font-bold mb-4">4 BHK Villa Plan</h4>
                                 <button onclick="openPopup('View 4 BHK Villa Plan')"
-                                    class="px-4 py-2 bg-white text-[#8C3626] text-[10px] font-bold rounded-full uppercase tracking-widest">Unlock
+                                    class="px-4 py-2 bg-white text-[#B49D55] text-[10px] font-bold rounded-[2px] uppercase tracking-widest">Unlock
                                     Plan</button>
                             </div>
                         </div>
@@ -841,16 +900,16 @@
                 </div>
                 <!-- 6 BHK Plan -->
                 <div class="relative group reveal">
-                    <div class="premium-card p-4 rounded-[2rem] bg-white shadow-xl relative overflow-hidden">
+                    <div class="premium-card p-4 rounded-[2px] bg-white shadow-xl relative overflow-hidden">
                         <div
-                            class="aspect-square bg-gray-50 rounded-2xl relative overflow-hidden flex items-center justify-center">
+                            class="aspect-square bg-gray-50 rounded-[2px] relative overflow-hidden flex items-center justify-center">
                             <img src="assets/6bhk.webp" alt="6BHK Plan"
                                 class="w-full h-full object-cover blur-sm">
                             <div
                                 class="absolute inset-0 bg-black/40 flex flex-col items-center justify-center text-center p-4">
                                 <h4 class="text-white font-bold mb-4">6 BHK Villa Plan</h4>
                                 <button onclick="openPopup('View 6 BHK Villa Plan')"
-                                    class="px-4 py-2 bg-white text-[#8C3626] text-[10px] font-bold rounded-full uppercase tracking-widest">Unlock
+                                    class="px-4 py-2 bg-white text-[#B49D55] text-[10px] font-bold rounded-[2px] uppercase tracking-widest">Unlock
                                     Plan</button>
                             </div>
                         </div>
@@ -858,16 +917,16 @@
                 </div>
                 <!-- Custom Villa Plan -->
                 <div class="relative group reveal">
-                    <div class="premium-card p-4 rounded-[2rem] bg-white shadow-xl relative overflow-hidden">
+                    <div class="premium-card p-4 rounded-[2px] bg-white shadow-xl relative overflow-hidden">
                         <div
-                            class="aspect-square bg-gray-50 rounded-2xl relative overflow-hidden flex items-center justify-center">
+                            class="aspect-square bg-gray-50 rounded-[2px] relative overflow-hidden flex items-center justify-center">
                             <img src="assets/4bhkslva-3150.webp" alt="Custom Villa Plan"
                                 class="w-full h-full object-cover blur-sm">
                             <div
                                 class="absolute inset-0 bg-black/40 flex flex-col items-center justify-center text-center p-4">
                                 <h4 class="text-white font-bold mb-4">Custom Villa Unit Plan</h4>
                                 <button onclick="openPopup('View Custom Villa Plan')"
-                                    class="px-4 py-2 bg-white text-[#8C3626] text-[10px] font-bold rounded-full uppercase tracking-widest">Unlock
+                                    class="px-4 py-2 bg-white text-[#B49D55] text-[10px] font-bold rounded-[2px] uppercase tracking-widest">Unlock
                                     Plan</button>
                             </div>
                         </div>
@@ -879,11 +938,11 @@
 
 
     <!-- Amenities Section -->
-    <section id="amenities" class="py-12 lg:py-24 bg-white relative overflow-hidden">
+    <section id="amenities" class="py-10 lg:py-14 bg-white relative overflow-hidden">
         <div class="container mx-auto px-4 relative z-10">
-            <div class="text-center mb-8 lg:mb-16">
+            <div class="text-center mb-6 lg:mb-10">
                 <div
-                    class="inline-block px-4 py-1.5 bg-[#8C3626]/10 text-[#8C3626] rounded-full text-xs font-bold uppercase tracking-widest mb-4">
+                    class="inline-block px-4 py-1.5 bg-[#B49D55]/10 text-[#B49D55] rounded-[2px] text-xs font-bold uppercase tracking-widest mb-4">
                     World-Class Features
                 </div>
                 <h2 class="font-heading text-3xl md:text-5xl font-bold mb-6">Unmatched Amenities</h2>
@@ -892,181 +951,174 @@
                     experiences designed for every age.</p>
             </div>
 
-            <!-- Primary Amenities with Images -->
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-                <div class="relative group h-[300px] overflow-hidden rounded-3xl shadow-xl">
-                    <img src="assets/banquet-hall.webp" alt="Grand Clubhouse"
+                                    <!-- Primary Amenities with Images (8 Items: 4 and 4 divide) -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Amenity 1: Gymkhana Veranda & Open Dining -->
+                <div class="relative group h-[260px] lg:h-[280px] overflow-hidden rounded-[2px] shadow-xl">
+                    <img src="assets/amenity-gymkhana-dining.jpg" alt="Gymkhana Open Dining"
                         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
-                    <div class="absolute bottom-0 left-0 p-6 w-full">
+                    <div class="absolute bottom-0 left-0 p-4 w-full">
                         <div
-                            class="bg-white/10 backdrop-blur-md border border-white/20 p-4 rounded-2xl flex items-center gap-4">
-                            <div class="w-12 h-12 bg-[#8C3626] rounded-xl flex items-center justify-center shadow-lg">
-                                <i data-lucide="building-2" class="text-white w-6 h-6"></i>
+                            class="bg-white/10 backdrop-blur-md border border-white/20 p-3 rounded-[2px] flex items-center gap-3">
+                            <div class="w-10 h-10 bg-[#B49D55] rounded-[2px] flex items-center justify-center shadow-lg shrink-0">
+                                <i data-lucide="utensils" class="text-white w-5 h-5"></i>
                             </div>
-                            <div>
-                                <h4 class="text-white font-bold text-lg">Grand Clubhouse</h4>
-                                <p class="text-white/70 text-xs">Elite Gymkhana Spanish Theme</p>
+                            <div class="min-w-0">
+                                <h4 class="text-white font-bold text-base leading-tight truncate">Gymkhana Open Dining</h4>
+                                <p class="text-white/80 text-xs truncate">Veranda & Alfresco Lounge</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="relative group h-[300px] overflow-hidden rounded-3xl shadow-xl">
-                    <img src="assets/swimming-pool.webp" alt="Plunge Pool"
+                <!-- Amenity 2: Resort Beach Pool -->
+                <div class="relative group h-[260px] lg:h-[280px] overflow-hidden rounded-[2px] shadow-xl">
+                    <img src="assets/amenity-beach-pool.jpg" alt="Resort Beach Pool"
                         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
-                    <div class="absolute bottom-0 left-0 p-6 w-full">
+                    <div class="absolute bottom-0 left-0 p-4 w-full">
                         <div
-                            class="bg-white/10 backdrop-blur-md border border-white/20 p-4 rounded-2xl flex items-center gap-4">
-                            <div class="w-12 h-12 bg-[#8C3626] rounded-xl flex items-center justify-center shadow-lg">
-                                <i data-lucide="waves" class="text-white w-6 h-6"></i>
+                            class="bg-white/10 backdrop-blur-md border border-white/20 p-3 rounded-[2px] flex items-center gap-3">
+                            <div class="w-10 h-10 bg-[#B49D55] rounded-[2px] flex items-center justify-center shadow-lg shrink-0">
+                                <i data-lucide="waves" class="text-white w-5 h-5"></i>
                             </div>
-                            <div>
-                                <h4 class="text-white font-bold text-lg">Plunge Pool</h4>
-                                <p class="text-white/70 text-xs">Temperature Controlled</p>
+                            <div class="min-w-0">
+                                <h4 class="text-white font-bold text-base leading-tight truncate">Resort Beach Pool</h4>
+                                <p class="text-white/80 text-xs truncate">Tropical Sand & Sunken Deck</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Amenity 3 -->
-                <div class="relative group h-[300px] overflow-hidden rounded-3xl shadow-xl">
-                    <img src="assets/tree-garden.webp" alt="Landscaped Gardens"
+                <!-- Amenity 3: Terrace Plunge Pool -->
+                <div class="relative group h-[260px] lg:h-[280px] overflow-hidden rounded-[2px] shadow-xl">
+                    <img src="assets/amenity-terrace-pool.jpg" alt="Terrace Plunge Pool"
                         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
-                    <div class="absolute bottom-0 left-0 p-6 w-full">
+                    <div class="absolute bottom-0 left-0 p-4 w-full">
                         <div
-                            class="bg-white/10 backdrop-blur-md border border-white/20 p-4 rounded-2xl flex items-center gap-4">
-                            <div class="w-12 h-12 bg-[#8C3626] rounded-xl flex items-center justify-center shadow-lg">
-                                <i data-lucide="trees" class="text-white w-6 h-6"></i>
+                            class="bg-white/10 backdrop-blur-md border border-white/20 p-3 rounded-[2px] flex items-center gap-3">
+                            <div class="w-10 h-10 bg-[#B49D55] rounded-[2px] flex items-center justify-center shadow-lg shrink-0">
+                                <i data-lucide="sparkles" class="text-white w-5 h-5"></i>
                             </div>
-                            <div>
-                                <h4 class="text-white font-bold text-lg">Zen Gardens</h4>
-                                <p class="text-white/70 text-xs">Tropical Landscaping</p>
+                            <div class="min-w-0">
+                                <h4 class="text-white font-bold text-base leading-tight truncate">Terrace Plunge Pool</h4>
+                                <p class="text-white/80 text-xs truncate">Sky-High Villa Infinity Deck</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Amenity 4 -->
-                <div class="relative group h-[300px] overflow-hidden rounded-3xl shadow-xl">
-                    <img src="assets/sports-arena.webp" alt="Modern Fitness"
+                <!-- Amenity 4: Golf Putting Greens -->
+                <div class="relative group h-[260px] lg:h-[280px] overflow-hidden rounded-[2px] shadow-xl">
+                    <img src="assets/amenity-golf-putting.jpg" alt="Golf Putting Greens"
                         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
-                    <div class="absolute bottom-0 left-0 p-6 w-full">
+                    <div class="absolute bottom-0 left-0 p-4 w-full">
                         <div
-                            class="bg-white/10 backdrop-blur-md border border-white/20 p-4 rounded-2xl flex items-center gap-4">
-                            <div class="w-12 h-12 bg-[#8C3626] rounded-xl flex items-center justify-center shadow-lg">
-                                <i data-lucide="dumbbell" class="text-white w-6 h-6"></i>
+                            class="bg-white/10 backdrop-blur-md border border-white/20 p-3 rounded-[2px] flex items-center gap-3">
+                            <div class="w-10 h-10 bg-[#B49D55] rounded-[2px] flex items-center justify-center shadow-lg shrink-0">
+                                <i data-lucide="flag" class="text-white w-5 h-5"></i>
                             </div>
-                            <div>
-                                <h4 class="text-white font-bold text-lg">Modern Gym</h4>
-                                <p class="text-white/70 text-xs">Wellness & Fitness Suite</p>
+                            <div class="min-w-0">
+                                <h4 class="text-white font-bold text-base leading-tight truncate">Golf Putting Greens</h4>
+                                <p class="text-white/80 text-xs truncate">Championship Putting Zone</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Amenity 5 -->
-                <div class="relative group h-[300px] overflow-hidden rounded-3xl shadow-xl">
-                    <img src="assets/riverside-promenade.webp" alt="Multi-Sports Court"
+                <!-- Amenity 5: Open-Air Amphitheatre -->
+                <div class="relative group h-[260px] lg:h-[280px] overflow-hidden rounded-[2px] shadow-xl">
+                    <img src="assets/amenity-amphitheatre.jpg" alt="Open-Air Amphitheatre"
                         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
-                    <div class="absolute bottom-0 left-0 p-6 w-full">
+                    <div class="absolute bottom-0 left-0 p-4 w-full">
                         <div
-                            class="bg-white/10 backdrop-blur-md border border-white/20 p-4 rounded-2xl flex items-center gap-4">
-                            <div class="w-12 h-12 bg-[#8C3626] rounded-xl flex items-center justify-center shadow-lg">
-                                <i data-lucide="trophy" class="text-white w-6 h-6"></i>
+                            class="bg-white/10 backdrop-blur-md border border-white/20 p-3 rounded-[2px] flex items-center gap-3">
+                            <div class="w-10 h-10 bg-[#B49D55] rounded-[2px] flex items-center justify-center shadow-lg shrink-0">
+                                <i data-lucide="film" class="text-white w-5 h-5"></i>
                             </div>
-                            <div>
-                                <h4 class="text-white font-bold text-lg">Multi-Sports Court</h4>
-                                <p class="text-white/70 text-xs">Football & Tennis Area</p>
+                            <div class="min-w-0">
+                                <h4 class="text-white font-bold text-base leading-tight truncate">Open-Air Amphitheatre</h4>
+                                <p class="text-white/80 text-xs truncate">Grand Starlit Event Arena</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Amenity 6 -->
-                <div class="relative group h-[300px] overflow-hidden rounded-3xl shadow-xl">
-                    <img src="assets/kids-play-area.webp" alt="Kids' Play Zone"
+                <!-- Amenity 6: Royal Palm Boulevard -->
+                <div class="relative group h-[260px] lg:h-[280px] overflow-hidden rounded-[2px] shadow-xl">
+                    <img src="assets/amenity-boulevard.jpg" alt="Royal Palm Boulevard"
                         class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
-                    <div class="absolute bottom-0 left-0 p-6 w-full">
+                    <div class="absolute bottom-0 left-0 p-4 w-full">
                         <div
-                            class="bg-white/10 backdrop-blur-md border border-white/20 p-4 rounded-2xl flex items-center gap-4">
-                            <div class="w-12 h-12 bg-[#8C3626] rounded-xl flex items-center justify-center shadow-lg">
-                                <i data-lucide="palette" class="text-white w-6 h-6"></i>
+                            class="bg-white/10 backdrop-blur-md border border-white/20 p-3 rounded-[2px] flex items-center gap-3">
+                            <div class="w-10 h-10 bg-[#B49D55] rounded-[2px] flex items-center justify-center shadow-lg shrink-0">
+                                <i data-lucide="trees" class="text-white w-5 h-5"></i>
                             </div>
-                            <div>
-                                <h4 class="text-white font-bold text-lg">Kids' Play Zone</h4>
-                                <p class="text-white/70 text-xs">Dedicated Activity Grounds</p>
+                            <div class="min-w-0">
+                                <h4 class="text-white font-bold text-base leading-tight truncate">Royal Palm Boulevard</h4>
+                                <p class="text-white/80 text-xs truncate">Majestic Tree-Lined Avenues</p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <!-- Additional Amenities Ticker/Grid -->
-            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6 pt-10 border-t border-gray-100">
-                <div class="flex flex-col items-center group text-center">
-                    <div
-                        class="w-12 h-12 bg-[#FFF8DE] rounded-full flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/10 transition-colors">
-                        <i data-lucide="car" class="text-[#8C3626] w-5 h-5"></i>
+                <!-- Amenity 7: Bubbles Kids' Park -->
+                <div class="relative group h-[260px] lg:h-[280px] overflow-hidden rounded-[2px] shadow-xl">
+                    <img src="assets/amenity-bubbles-park.jpg" alt="Bubbles Kids' Park"
+                        class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
+                    <div class="absolute bottom-0 left-0 p-4 w-full">
+                        <div
+                            class="bg-white/10 backdrop-blur-md border border-white/20 p-3 rounded-[2px] flex items-center gap-3">
+                            <div class="w-10 h-10 bg-[#B49D55] rounded-[2px] flex items-center justify-center shadow-lg shrink-0">
+                                <i data-lucide="palette" class="text-white w-5 h-5"></i>
+                            </div>
+                            <div class="min-w-0">
+                                <h4 class="text-white font-bold text-base leading-tight truncate">Bubbles Kids' Park</h4>
+                                <p class="text-white/80 text-xs truncate">Adventure & Interactive Play</p>
+                            </div>
+                        </div>
                     </div>
-                    <span class="text-sm font-bold text-gray-800">Ample Parking</span>
                 </div>
-                <div class="flex flex-col items-center group text-center">
-                    <div
-                        class="w-12 h-12 bg-[#FFF8DE] rounded-full flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/10 transition-colors">
-                        <i data-lucide="shield-check" class="text-[#8C3626] w-5 h-5"></i>
+
+                <!-- Amenity 8: Star Gazing Deck -->
+                <div class="relative group h-[260px] lg:h-[280px] overflow-hidden rounded-[2px] shadow-xl">
+                    <img src="assets/amenity-star-galaxy.jpg" alt="Star Gazing Deck"
+                        class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                    <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
+                    <div class="absolute bottom-0 left-0 p-4 w-full">
+                        <div
+                            class="bg-white/10 backdrop-blur-md border border-white/20 p-3 rounded-[2px] flex items-center gap-3">
+                            <div class="w-10 h-10 bg-[#B49D55] rounded-[2px] flex items-center justify-center shadow-lg shrink-0">
+                                <i data-lucide="star" class="text-white w-5 h-5"></i>
+                            </div>
+                            <div class="min-w-0">
+                                <h4 class="text-white font-bold text-base leading-tight truncate">Star Gazing Deck</h4>
+                                <p class="text-white/80 text-xs truncate">Telescopic Galaxy View Deck</p>
+                            </div>
+                        </div>
                     </div>
-                    <span class="text-sm font-bold text-gray-800">4-Tier Security</span>
-                </div>
-                <div class="flex flex-col items-center group text-center">
-                    <div
-                        class="w-12 h-12 bg-[#FFF8DE] rounded-full flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/10 transition-colors">
-                        <i data-lucide="wifi" class="text-[#8C3626] w-5 h-5"></i>
-                    </div>
-                    <span class="text-sm font-bold text-gray-800">Smart Home</span>
-                </div>
-                <div class="flex flex-col items-center group text-center">
-                    <div
-                        class="w-12 h-12 bg-[#FFF8DE] rounded-full flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/10 transition-colors">
-                        <i data-lucide="zap" class="text-[#8C3626] w-5 h-5"></i>
-                    </div>
-                    <span class="text-sm font-bold text-gray-800">EV Charging</span>
-                </div>
-                <div class="flex flex-col items-center group text-center">
-                    <div
-                        class="w-12 h-12 bg-[#FFF8DE] rounded-full flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/10 transition-colors">
-                        <i data-lucide="coffee" class="text-[#8C3626] w-5 h-5"></i>
-                    </div>
-                    <span class="text-sm font-bold text-gray-800">Cafeteria</span>
-                </div>
-                <div class="flex flex-col items-center group text-center">
-                    <div
-                        class="w-12 h-12 bg-[#FFF8DE] rounded-full flex items-center justify-center mb-3 group-hover:bg-[#B49D55]/10 transition-colors">
-                        <i data-lucide="award" class="text-[#8C3626] w-5 h-5"></i>
-                    </div>
-                    <span class="text-sm font-bold text-gray-800">Yoga Deck</span>
                 </div>
             </div>
         </div>
-        <div class="flex justify-center mt-10">
+        <div class="flex justify-center mt-8 lg:mt-10">
             <button onclick="openPopup('View Full Amenities')"
-                class="animated-gradient-button block text-white font-semibold px-8 py-3 rounded-lg text-sm shadow-lg hover:opacity-90 transition duration-300">
+                class="animated-gradient-button block text-white font-semibold px-8 py-3 rounded-[2px] text-sm shadow-lg hover:opacity-90 transition duration-300">
                 View Full Amenities
             </button>
         </div>
-
     </section>
 
     <!-- Gallery Section -->
-    <section id="gallery" class="py-12 lg:py-24 bg-navy">
+    <section id="gallery" class="py-10 lg:py-14 bg-navy">
         <div class="container mx-auto px-4">
-            <div class="text-center mb-8 lg:mb-16">
-                <h2 class="font-heading text-3xl md:text-4xl font-bold text-[#8C3626] mb-4">Arihant World Villas
+            <div class="text-center mb-6 lg:mb-10">
+                <h2 class="font-heading text-3xl md:text-4xl font-bold text-[#B49D55] mb-4">World Villas
                     Project
                     Gallery</h2>
                 <p class="text-xl text-gray-800 font-body">Experience the luxury through our curated collection</p>
@@ -1075,26 +1127,26 @@
             <div class="grid md:grid-cols-3 lg:grid-cols-4 gap-6">
                 <div class="gallery-item cursor-pointer group" onclick="openLightbox(0)">
                     <img src="assets/1.webp" alt="Exterior View"
-                        class="w-full aspect-square object-cover rounded-xl group-hover:scale-105 transition-transform duration-300">
+                        class="w-full aspect-square object-cover rounded-[2px] group-hover:scale-105 transition-transform duration-300">
                 </div>
                 <div class="gallery-item cursor-pointer group" onclick="openLightbox(1)">
                     <img src="assets/2.webp" alt="Main Entrance"
-                        class="w-full aspect-square object-cover rounded-xl group-hover:scale-105 transition-transform duration-300">
+                        class="w-full aspect-square object-cover rounded-[2px] group-hover:scale-105 transition-transform duration-300">
                 </div>
                 <div class="gallery-item cursor-pointer group" onclick="openLightbox(2)">
                     <img src="assets/3.webp" alt="Towers"
-                        class="w-full aspect-square object-cover rounded-xl group-hover:scale-105 transition-transform duration-300">
+                        class="w-full aspect-square object-cover rounded-[2px] group-hover:scale-105 transition-transform duration-300">
                 </div>
                 <div class="gallery-item cursor-pointer group" onclick="openLightbox(3)">
                     <img src="assets/4.webp" alt="Fountain Plaza"
-                        class="w-full aspect-square object-cover rounded-xl group-hover:scale-105 transition-transform duration-300">
+                        class="w-full aspect-square object-cover rounded-[2px] group-hover:scale-105 transition-transform duration-300">
                 </div>
 
             </div>
         </div>
-        <div class="flex justify-center mt-8 lg:mt-16">
+        <div class="flex justify-center mt-6 lg:mt-10">
             <button onclick="openPopup('View Full Gallery')"
-                class="animated-gradient-button block text-white font-semibold px-8 py-4 rounded-lg text-sm shadow-lg hover:opacity-90 transition duration-300">
+                class="animated-gradient-button block text-white font-semibold px-8 py-4 rounded-[2px] text-sm shadow-lg hover:opacity-90 transition duration-300">
                 View Full Gallery
             </button>
         </div>
@@ -1103,7 +1155,7 @@
 
 
     <!-- Location Section -->
-    <section id="location" class="bg-[#FFF8DE] py-12 lg:py-24 relative overflow-hidden">
+    <section id="location" class="bg-white py-10 lg:py-14 relative overflow-hidden">
         <!-- Background decorative elements -->
         <div
             class="absolute top-0 left-0 w-64 h-64 bg-[#B49D55]/5 rounded-full blur-3xl -translate-x-1/2 -translate-y-1/2">
@@ -1114,132 +1166,272 @@
 
         <div class="container mx-auto px-4 relative z-10">
             <!-- Section Header -->
-            <div class="text-center mb-8 lg:mb-16">
+            <div class="text-center mb-6 lg:mb-10">
                 <div
-                    class="inline-block px-4 py-1.5 bg-[#8C3626]/10 text-[#8C3626] rounded-full text-xs font-bold uppercase tracking-widest mb-4">
+                    class="inline-block px-4 py-1.5 bg-[#B49D55]/10 text-[#B49D55] rounded-[2px] text-xs font-bold uppercase tracking-widest mb-3">
                     Strategic Connectivity
                 </div>
-                <h2 class="font-heading text-3xl md:text-5xl font-bold text-[#8C3626] mb-6">Off Mumbai-Pune Expressway
-                </h2>
-                <p class="text-lg text-gray-600 font-body max-w-3xl mx-auto">Strategically positioned for the future,
-                    offering
-                    unmatched connectivity to Mumbai, Pune, and the upcoming international airport.</p>
+                <h2 class="font-heading text-3xl md:text-5xl font-bold text-[#B49D55] mb-3">Location Advantages</h2>
+                <p class="text-base md:text-lg text-gray-600 font-body max-w-3xl mx-auto">
+                    Strategically positioned at Chowk, Mumbai 3.O &mdash; offering seamless multimodal connectivity via Atal Setu, upcoming International Airport, and major highway networks.
+                </p>
             </div>
 
-            <div class="flex flex-col lg:flex-row gap-12 items-start">
-                <!-- Connectivity Hub with Categories -->
-                <div class="w-full lg:w-[45%] space-y-8">
-                    <!-- Tab-like Selection (Visual Only for now, but formatted cleanly) -->
-                    <div class="grid grid-cols-1 gap-8">
-                        <!-- Category: Transport & Landmarks -->
-                        <div>
-                            <h4
-                                class="text-[#8C3626] font-bold uppercase tracking-widest text-xs mb-4 flex items-center gap-2">
-                                <i data-lucide="navigation" class="w-3 h-3"></i> Connectivity
-                            </h4>
-                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                                <div
-                                    class="premium-card p-3 rounded-xl flex items-center justify-between border border-[#B49D55]/10">
-                                    <span class="text-sm text-gray-800 font-medium">Chowk Railway Station</span>
-                                    <span
-                                        class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-1 rounded-md">4
-                                        Min</span>
-                                </div>
-                                <div
-                                    class="premium-card p-3 rounded-xl flex items-center justify-between border border-[#B49D55]/10">
-                                    <span class="text-sm text-gray-800 font-medium">ND Film Studio</span>
-                                    <span
-                                        class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-1 rounded-md">5
-                                        Min</span>
-                                </div>
-                                <div
-                                    class="premium-card p-3 rounded-xl flex items-center justify-between border border-[#B49D55]/10">
-                                    <span class="text-sm text-gray-800 font-medium">9 Aces – 9 Hole Golf Course</span>
-                                    <span
-                                        class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-1 rounded-md">2
-                                        Min</span>
-                                </div>
-                                <div
-                                    class="premium-card p-3 rounded-xl flex items-center justify-between border border-[#B49D55]/10">
-                                    <span class="text-sm text-gray-800 font-medium leading-tight">Reliance Township & Dhirubhai Ambani Hospital</span>
-                                    <span
-                                        class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-1 rounded-md whitespace-nowrap ml-2">6
-                                        Min</span>
-                                </div>
-                                <div
-                                    class="premium-card p-3 rounded-xl flex items-center justify-between border border-[#B49D55]/10">
-                                    <span class="text-sm text-gray-800 font-medium leading-tight">Hiranandani Fortune City Mall & School</span>
-                                    <span
-                                        class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-1 rounded-md whitespace-nowrap ml-2">8
-                                        Min</span>
-                                </div>
-                                <div
-                                    class="premium-card p-3 rounded-xl flex items-center justify-between border border-[#B49D55]/10">
-                                    <span class="text-sm text-gray-800 font-medium leading-tight">Navi Mumbai International Airport</span>
-                                    <span
-                                        class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-1 rounded-md whitespace-nowrap ml-2">40
-                                        Min</span>
-                                </div>
+            <div class="flex flex-col lg:flex-row gap-8 lg:gap-12 items-start">
+                <!-- Connectivity Hub with Radial Distances -->
+                <div class="w-full lg:w-[48%] space-y-6">
+                    <!-- Group 1: 1 - 5 KM (Immediate Proximity) -->
+                    <div>
+                        <h4 class="text-[#B49D55] font-bold uppercase tracking-widest text-xs mb-3 flex items-center gap-2"><i data-lucide="map-pin" class="w-3.5 h-3.5"></i> Immediate Vicinity (1 - 5 KM)</h4>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Old Mumbai-Pune Highway</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">1 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">ND Film Studio</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">1 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">9-Hole Golf Course</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">1 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Chowk Railway Station</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">3 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Reliance Hospital</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">5 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Saltt Restaurant & Morbe Dam</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">5 KM</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Group 2: 8 - 15 KM (Key Hubs & Expressways) -->
+                    <div>
+                        <h4 class="text-[#B49D55] font-bold uppercase tracking-widest text-xs mb-3 flex items-center gap-2"><i data-lucide="compass" class="w-3.5 h-3.5"></i> Key Hubs & Highways (8 - 15 KM)</h4>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Hiranandani Fortune City</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">8 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Corviuss American Academy</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">10 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Radisson Blu & Godrej City</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">10 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Adani Hub & Wadhwa Wise City</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">10 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Mumbai-Pune Expressway</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">15 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Panvel City / Imagicaa</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">15 KM</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Group 3: 20 - 40 KM (Airports & Regional Transit) -->
+                    <div>
+                        <h4 class="text-[#B49D55] font-bold uppercase tracking-widest text-xs mb-3 flex items-center gap-2"><i data-lucide="navigation" class="w-3.5 h-3.5"></i> Regional Infrastructure (20 - 40 KM)</h4>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Navi Mumbai Int. Airport (NMIA)</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">20 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Kharghar & Belapur CBD</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">20 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Matheran / Kothaligad</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">20 KM</span>
+                            </div>
+                            <div class="premium-card p-2.5 px-3 rounded-[2px] flex items-center justify-between border border-[#B49D55]/15 bg-white hover:border-[#B49D55] transition-all">
+                                <span class="text-xs text-gray-800 font-medium truncate pr-2">Atal Setu (MTHL) / JNPT</span>
+                                <span class="text-[10px] font-bold text-[#B49D55] bg-[#B49D55]/10 px-2 py-0.5 rounded-[2px] shrink-0">40 KM</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-
                 <!-- Right: Map with Premium Framing -->
-                <div class="w-full lg:w-1/2">
+                <div class="w-full lg:w-[48%]">
                     <div class="relative group">
                         <!-- Signature Golden Frame -->
                         <div
-                            class="absolute -top-6 -right-6 w-full h-full border-2 border-[#B49D55]/30 rounded-[2rem] z-0 transition-transform duration-500 group-hover:translate-x-2 group-hover:-translate-y-2">
+                            class="absolute -top-6 -right-6 w-full h-full border-2 border-[#B49D55]/30 rounded-[2px] z-0 transition-transform duration-500 group-hover:translate-x-2 group-hover:-translate-y-2">
                         </div>
                         <div
-                            class="absolute -bottom-6 -left-6 w-64 h-64 border-l-2 border-b-2 border-[#B49D55] rounded-bl-[4rem] z-0">
+                            class="absolute -bottom-6 -left-6 w-64 h-64 border-l-2 border-b-2 border-[#B49D55] rounded-[2px] z-0">
                         </div>
 
                         <!-- Map Container -->
-                        <div class="relative z-10 rounded-[2rem] overflow-hidden shadow-2xl border-4 border-white">
+                        <div class="relative z-10 rounded-[2px] overflow-hidden shadow-2xl border-4 border-white">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120718.368814742!2d73.048777!3d18.98925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7fbc6689d020d%3A0x33486300f86230f8!2sPanvel%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1790000000000!5m2!1sen!2sin"
-                                width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.249767784381!2d73.26049787596538!3d18.900805182270966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e58340b570eb%3A0x53ac8301eea01f70!2sArihant%20World%20Villas!5e0!3m2!1sen!2sin!4v1730300000000!5m2!1sen!2sin"
+                                width="100%" height="520" style="border:0;" allowfullscreen="" loading="lazy"
                                 referrerpolicy="no-referrer-when-downgrade"
                                 class="hover:shadow-none transition-all duration-700"></iframe>
                         </div>
 
                         <!-- Floating Legend Card -->
-                        <div
-                            class="absolute -bottom-8 right-8 z-20 bg-white/90 backdrop-blur-xl p-6 rounded-2xl shadow-xl border border-[#B49D55]/20 hidden md:block">
-                            <div class="flex items-center gap-4">
-                                <div
-                                    class="w-12 h-12 bg-[#B49D55] rounded-full flex items-center justify-center text-white shadow-lg">
-                                    <i data-lucide="navigation-2" class="w-6 h-6"></i>
-                                </div>
-                                <div>
-                                    <h4 class="font-bold text-gray-800">Fast Connectivity</h4>
-                                    <p class="text-xs text-gray-500 italic">Connected to Everywhere</p>
-                                </div>
+                        <a href="https://maps.app.goo.gl/p5KtbmSTHcmaWP3F7" target="_blank" rel="noopener noreferrer"
+                            class="absolute -bottom-8 right-8 z-20 bg-white/95 backdrop-blur-xl p-4 lg:p-5 rounded-[2px] shadow-xl border border-[#B49D55]/20 hidden md:flex items-center gap-4 hover:border-[#B49D55] transition-all group/card">
+                            <div
+                                class="w-12 h-12 bg-[#B49D55] rounded-[2px] flex items-center justify-center text-white shadow-lg shrink-0 group-hover/card:scale-105 transition-transform">
+                                <i data-lucide="navigation-2" class="w-6 h-6"></i>
                             </div>
-                        </div>
+                            <div>
+                                <h4 class="font-bold text-gray-800 text-sm flex items-center gap-1.5">
+                                    World Villas Location
+                                    <i data-lucide="external-link" class="w-3.5 h-3.5 text-[#B49D55]"></i>
+                                </h4>
+                                <p class="text-xs text-gray-500">At Chowk Mumbai 3.O &bull; Get Directions</p>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>
+
+        </div>
     </section>
 
 
 
+    <!-- YouTube Video Tour Section (3 Videos) -->
+    <section id="video-tour" class="py-10 lg:py-14 bg-white relative overflow-hidden">
+        <div class="container mx-auto px-4 relative z-10">
+            <!-- Section Header -->
+            <div class="text-center mb-6 lg:mb-10">
+                <div
+                    class="inline-block px-4 py-1.5 bg-[#B49D55]/10 text-[#B49D55] rounded-[2px] text-xs font-bold uppercase tracking-widest mb-3">
+                    Video Walkthroughs
+                </div>
+                <h2 class="font-heading text-3xl md:text-5xl font-bold text-[#B49D55]">
+                    Experience World Villas
+                </h2>
+            </div>
 
+            <!-- 3 Videos Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8 max-w-7xl mx-auto">
+                <!-- Video 1: Master Layout & Walkthrough -->
+                <div class="bg-white border border-[#B49D55]/25 rounded-[2px] overflow-hidden shadow-lg hover:shadow-2xl transition-all group flex flex-col">
+                    <div class="aspect-video w-full bg-black relative">
+                        <iframe
+                            class="w-full h-full"
+                            src="https://www.youtube.com/embed/rYwTLBfIVtU?rel=0&modestbranding=1"
+                            title="Township Walkthrough & Layout"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            referrerpolicy="strict-origin-when-cross-origin"
+                            allowfullscreen>
+                        </iframe>
+                    </div>
+                    <div class="p-4 flex flex-col flex-grow justify-between gap-3">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <span class="w-2 h-2 rounded-full bg-[#B49D55]"></span>
+                                <span class="text-[10px] font-bold uppercase tracking-widest text-[#B49D55]">Master Layout</span>
+                            </div>
+                            <h3 class="font-heading font-bold text-gray-900 text-base leading-snug">Township Walkthrough & Layout</h3>
+                        </div>
+                        <button onclick="openPopup('Enquiry for Township Walkthrough')"
+                            class="w-full py-2.5 bg-gray-900 hover:bg-black text-white font-bold rounded-[2px] transition-all flex items-center justify-center gap-2 text-xs uppercase tracking-wider">
+                            <i data-lucide="play-circle" class="w-4 h-4 text-[#B49D55]"></i> Watch & Enquire
+                        </button>
+                    </div>
+                </div>
 
+                <!-- Video 2: Luxury Project Overview -->
+                <div class="bg-white border border-[#B49D55]/25 rounded-[2px] overflow-hidden shadow-lg hover:shadow-2xl transition-all group flex flex-col">
+                    <div class="aspect-video w-full bg-black relative">
+                        <iframe
+                            class="w-full h-full"
+                            src="https://www.youtube.com/embed/VkKUSgiaWY8?rel=0&modestbranding=1"
+                            title="Luxury Villa Project Overview"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            referrerpolicy="strict-origin-when-cross-origin"
+                            allowfullscreen>
+                        </iframe>
+                    </div>
+                    <div class="p-4 flex flex-col flex-grow justify-between gap-3">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <span class="w-2 h-2 rounded-full bg-[#B49D55]"></span>
+                                <span class="text-[10px] font-bold uppercase tracking-widest text-[#B49D55]">Project Overview</span>
+                            </div>
+                            <h3 class="font-heading font-bold text-gray-900 text-base leading-snug">Luxury Villa Project Overview</h3>
+                        </div>
+                        <button onclick="openPopup('Enquiry for Project Overview Video')"
+                            class="w-full py-2.5 bg-gray-900 hover:bg-black text-white font-bold rounded-[2px] transition-all flex items-center justify-center gap-2 text-xs uppercase tracking-wider">
+                            <i data-lucide="play-circle" class="w-4 h-4 text-[#B49D55]"></i> Watch & Enquire
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Video 3: Sample Villa Walkthrough -->
+                <div class="bg-white border border-[#B49D55]/25 rounded-[2px] overflow-hidden shadow-lg hover:shadow-2xl transition-all group flex flex-col">
+                    <div class="aspect-video w-full bg-black relative">
+                        <iframe
+                            class="w-full h-full"
+                            src="https://www.youtube.com/embed/hhYZtFo6O2k?rel=0&modestbranding=1"
+                            title="Sample Villa Walkthrough"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            referrerpolicy="strict-origin-when-cross-origin"
+                            allowfullscreen>
+                        </iframe>
+                    </div>
+                    <div class="p-4 flex flex-col flex-grow justify-between gap-3">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <span class="w-2 h-2 rounded-full bg-[#B49D55]"></span>
+                                <span class="text-[10px] font-bold uppercase tracking-widest text-[#B49D55]">Villa Tour</span>
+                            </div>
+                            <h3 class="font-heading font-bold text-gray-900 text-base leading-snug">Sample Villa Walkthrough</h3>
+                        </div>
+                        <button onclick="openPopup('Enquiry for Sample Villa Tour')"
+                            class="w-full py-2.5 bg-gray-900 hover:bg-black text-white font-bold rounded-[2px] transition-all flex items-center justify-center gap-2 text-xs uppercase tracking-wider">
+                            <i data-lucide="play-circle" class="w-4 h-4 text-[#B49D55]"></i> Watch & Enquire
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Action Button below 3 Videos -->
+            <div class="flex justify-center mt-10">
+                <button onclick="openPopup('Book Personalized Site Visit')"
+                    class="animated-gradient-button text-white font-semibold px-8 py-3.5 rounded-[2px] text-xs uppercase tracking-widest shadow-lg hover:opacity-90 transition duration-300 flex items-center gap-2">
+                    <i data-lucide="calendar" class="w-4 h-4"></i>
+                    Schedule an In-Person Site Visit
+                </button>
+            </div>
+        </div>
+    </section>
 
     <!-- Virtual Tour Section -->
-    <section class="py-10 bg-gradient-to-br from-[#F2F9FF] to-[#E6F0FA]">
+    <section class="py-8 lg:py-10 bg-gradient-to-br from-[#F2F9FF] to-[#E6F0FA]">
         <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
             <!-- Title -->
             <h2
-                class="text-3xl sm:text-4xl font-bold text-[#8C3626] mb-8 text-center flex items-center justify-center gap-3">
+                class="text-3xl sm:text-4xl font-bold text-[#B49D55] mb-8 text-center flex items-center justify-center gap-3">
                 Virtual Tour
             </h2>
             <!-- Video Thumbnail Card -->
-            <div class="relative rounded-2xl overflow-hidden shadow-xl group cursor-pointer">
+            <div class="relative rounded-[2px] overflow-hidden shadow-xl group cursor-pointer">
                 <img alt="Virtual Tour"
                     class="w-full h-72 sm:h-96 object-cover transform group-hover:scale-105 transition duration-500 ease-in-out"
                     src="assets/3.webp" />
@@ -1258,14 +1450,14 @@
                     </button>
                     <!-- Title -->
                     <h3 class="text-2xl sm:text-3xl font-semibold text-white mt-4">Virtual Site Visit</h3>
-                    <p class="text-white text-sm sm:text-base mt-1">Arihant World Villas, Panvel</p>
+                    <p class="text-white text-sm sm:text-base mt-1">World Villas, Panvel</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- About Builder -->
-    <section class="py-20">
+    <section class="py-10 lg:py-14 bg-white">
         <div class="container mx-auto px-6">
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="font-heading text-3xl md:text-4xl font-bold text-[#B49D55] mb-8">About Arihant Superstructures Ltd.
@@ -1293,7 +1485,7 @@
     </section>
 
     <!-- RERA Compliance Banner -->
-    <section class="bg-[#FFF8DE] border-t border-[#B49D55]/20 py-10 shadow-inner">
+    <section class="bg-white border-t border-[#B49D55]/20 py-8 lg:py-10 shadow-inner">
         <div class="container mx-auto px-4">
             <div class="flex flex-col lg:flex-row items-center justify-center gap-12 text-center lg:text-right">
                 <!-- Data Column -->
@@ -1318,45 +1510,45 @@
 
     <!-- FOOTER -->
     <!-- Footer -->
-    <footer class="bg-[#FFF8DE] text-gray-800 pt-20 pb-10 relative overflow-hidden border-t-2 border-[#B49D55]/20">
+    <footer class="bg-white text-gray-800 pt-12 lg:pt-16 pb-8 lg:pb-10 relative overflow-hidden border-t-2 border-[#B49D55]/20">
         <!-- Subtle Shine Header Line -->
         <div
             class="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-[#B49D55] to-transparent animate-pulse">
         </div>
 
         <div class="container mx-auto px-4 relative z-10">
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mb-8 lg:mb-16 border-b border-[#B49D55]/10 pb-8 lg:pb-12">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mb-6 lg:mb-10 border-b border-[#B49D55]/10 pb-6 lg:pb-8">
                 <!-- Column 1: Brand -->
                 <div class="space-y-6">
                     <img src="assets/logo_3krg.png" alt="Arihant Superstructures Ltd." class="h-14 w-auto opacity-90 shadow-sm">
                     <p class="text-gray-600 text-sm leading-relaxed font-light">
-                        Arihant World Villas is where luxury meets legacy. Experience the pinnacle of
+                        World Villas is where luxury meets legacy. Experience the pinnacle of
                         Spanish-themed lifestyle residences in the heart of Navi Mumbai's growing hub.
                     </p>
                 </div>
 
                 <!-- Column 2: Quick Links -->
                 <div>
-                    <h4 class="text-[#8C3626] font-bold uppercase tracking-widest text-xs mb-8">Navigation</h4>
+                    <h4 class="text-[#B49D55] font-bold uppercase tracking-widest text-xs mb-8">Navigation</h4>
                     <ul class="space-y-4">
                         <li><a href="#hero"
                                 class="text-gray-600 hover:text-[#B49D55] transition-colors text-sm flex items-center gap-2 group">
-                                <div class="w-1.5 h-1.5 rounded-full bg-[#8C3626]/20 group-hover:bg-[#8C3626]"></div>
+                                <div class="w-1.5 h-1.5 rounded-full bg-[#B49D55]/20 group-hover:bg-[#B49D55]"></div>
                                 Home
                             </a></li>
                         <li><a href="#highlights"
                                 class="text-gray-600 hover:text-[#B49D55] transition-colors text-sm flex items-center gap-2 group">
-                                <div class="w-1.5 h-1.5 rounded-full bg-[#8C3626]/20 group-hover:bg-[#8C3626]"></div>
+                                <div class="w-1.5 h-1.5 rounded-full bg-[#B49D55]/20 group-hover:bg-[#B49D55]"></div>
                                 Highlights
                             </a></li>
                         <li><a href="#amenities"
                                 class="text-gray-600 hover:text-[#B49D55] transition-colors text-sm flex items-center gap-2 group">
-                                <div class="w-1.5 h-1.5 rounded-full bg-[#8C3626]/20 group-hover:bg-[#8C3626]"></div>
+                                <div class="w-1.5 h-1.5 rounded-full bg-[#B49D55]/20 group-hover:bg-[#B49D55]"></div>
                                 Amenities
                             </a></li>
                         <li><a href="#floor-plans"
                                 class="text-gray-600 hover:text-[#B49D55] transition-colors text-sm flex items-center gap-2 group">
-                                <div class="w-1.5 h-1.5 rounded-full bg-[#8C3626]/20 group-hover:bg-[#8C3626]"></div>
+                                <div class="w-1.5 h-1.5 rounded-full bg-[#B49D55]/20 group-hover:bg-[#B49D55]"></div>
                                 Floor Plans
                             </a></li>
                     </ul>
@@ -1364,18 +1556,18 @@
 
                 <!-- Column 3: Contact & Location -->
                 <div>
-                    <h4 class="text-[#8C3626] font-bold uppercase tracking-widest text-xs mb-8">Reach Us</h4>
+                    <h4 class="text-[#B49D55] font-bold uppercase tracking-widest text-xs mb-8">Reach Us</h4>
                     <div class="space-y-6">
                         <div class="flex gap-4">
                             <div
-                                class="w-8 h-8 rounded-lg bg-[#B49D55]/10 flex items-center justify-center flex-shrink-0">
-                                <i data-lucide="map-pin" class="text-[#8C3626] w-4 h-4"></i>
+                                class="w-8 h-8 rounded-[2px] bg-[#B49D55]/10 flex items-center justify-center flex-shrink-0">
+                                <i data-lucide="map-pin" class="text-[#B49D55] w-4 h-4"></i>
                             </div>
                             <span class="text-gray-600 text-sm">Panvel, Navi Mumbai, Maharashtra - 410206</span>
                         </div>
                         <div class="flex gap-4 items-center">
-                            <div class="w-8 h-8 rounded-lg bg-[#B49D55]/10 flex items-center justify-center">
-                                <i data-lucide="phone" class="text-[#8C3626] w-4 h-4"></i>
+                            <div class="w-8 h-8 rounded-[2px] bg-[#B49D55]/10 flex items-center justify-center">
+                                <i data-lucide="phone" class="text-[#B49D55] w-4 h-4"></i>
                             </div>
                             <a href="tel:+919920666676"
                                 class="text-gray-600 hover:text-[#B49D55] transition-colors text-sm">+91 9920666676</a>
@@ -1387,7 +1579,7 @@
 
         <!-- Disclaimer Base -->
         <div class="pt-6 lg:pt-10 border-t border-[#B49D55]/10">
-            <div class="bg-gray-100/50 p-6 rounded-2xl mb-6 lg:mb-12">
+            <div class="bg-gray-100/50 p-6 rounded-[2px] mb-6 lg:mb-12">
                 <p
                     class="text-[10px] text-gray-500 leading-relaxed text-center uppercase tracking-wider mb-4 font-bold">
                     Disclaimer & Privacy Policy</p>
@@ -1408,12 +1600,12 @@
             </div>
 
             <div class="flex flex-col items-center gap-4 text-center pb-32 md:pb-0">
-                <p class="text-gray-500 text-[10px] uppercase tracking-widest">© 2026 Arihant World Villas.</p>
+                <p class="text-gray-500 text-[10px] uppercase tracking-widest">© 2026 World Villas.</p>
                 <div class="flex gap-4">
                     <a href="privacy.html"
-                        class="text-[#8C3626] text-[10px] uppercase font-bold hover:underline">Privacy Policy</a>
+                        class="text-[#B49D55] text-[10px] uppercase font-bold hover:underline">Privacy Policy</a>
                     <span class="text-gray-300">|</span>
-                    <a href="terms.html" class="text-[#8C3626] text-[10px] uppercase font-bold hover:underline">Terms of
+                    <a href="terms.html" class="text-[#B49D55] text-[10px] uppercase font-bold hover:underline">Terms of
                         Use</a>
                 </div>
             </div>
@@ -1423,7 +1615,7 @@
     <div class="fixed bottom-0 left-0 right-0 bg-black border-t border-gray-200 p-4 z-40 md:hidden">
         <div class="flex space-x-3">
             <a href="tel:+919920666676"
-                class="flex-1 bg-white hover:bg-gray-50 text-[#8C3626] py-3 rounded-lg text-center font-medium transition-all duration-200 flex items-center justify-center space-x-2">
+                class="flex-1 bg-white hover:bg-gray-50 text-[#B49D55] py-3 rounded-[2px] text-center font-medium transition-all duration-200 flex items-center justify-center space-x-2">
                 <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                     <path
                         d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
@@ -1431,7 +1623,7 @@
                 <span>Call Now</span>
             </a>
             <a href="https://wa.me/919920666676" target="_blank"
-                class="flex-1 bg-[#25D366] hover:bg-[#128C7E] text-white py-3 rounded-lg text-center font-medium transition-all duration-200 flex items-center justify-center space-x-2">
+                class="flex-1 bg-[#25D366] hover:bg-[#128C7E] text-white py-3 rounded-[2px] text-center font-medium transition-all duration-200 flex items-center justify-center space-x-2">
                 <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                     <path
                         d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.886 3.488" />
@@ -1454,11 +1646,11 @@
 
     <!-- Popup Overlay -->
     <div id="popupOverlay" class="hidden fixed inset-0 bg-black/50 flex items-center justify-center z-50">
-        <div class="bg-white rounded-2xl shadow-xl w-full max-w-md relative p-6 translate-y-10">
+        <div class="bg-white rounded-[2px] shadow-xl w-full max-w-md relative p-6 translate-y-10">
             <!-- Close Button -->
             <button onclick="closePopup()"
                 class="absolute top-3 right-3 text-gray-600 hover:text-black text-xl">&times;</button>
-            <h2 class="text-center text-lg font-bold text-[#8C3626] mt-4">Enquire Now</h2>
+            <h2 class="text-center text-lg font-bold text-[#B49D55] mt-4">Enquire Now</h2>
             <p class="text-center text-gray-600 font-bold text-sm mb-6">Register Here And Avail The Best Offers!!</p>
             <form action="sendmail.php" method="POST" class="space-y-4">
                 <input type="text" name="name" placeholder="Name*" required
@@ -1472,7 +1664,7 @@
                 <p class="text-[11px] text-gray-500 leading-tight">This site is protected by reCAPTCHA and the Google
                     Privacy Policy and Terms of Service apply.</p>
                 <button type="submit"
-                    class="w-full animated-gradient-button text-white font-semibold py-3 rounded-lg transition uppercase tracking-widest text-xs">Submit
+                    class="w-full animated-gradient-button text-white font-semibold py-3 rounded-[2px] transition uppercase tracking-widest text-xs">Submit
                     Inquiry</button>
                 <p class="text-center text-gray-400 text-[9px] mt-3 uppercase tracking-widest">We respect your privacy.
                     Your data is 100% secured.</p>
@@ -1483,7 +1675,7 @@
                 <hr class="flex-grow border-gray-300">
             </div>
             <a href="https://wa.me/919920666676" target="_blank"
-                class="w-full flex items-center justify-center bg-[#25D366] hover:bg-[#128C7E] text-white py-3 rounded-lg font-semibold text-sm">
+                class="w-full flex items-center justify-center bg-[#25D366] hover:bg-[#128C7E] text-white py-3 rounded-[2px] font-semibold text-sm">
                 <i data-lucide="message-circle" class="w-5 h-5 mr-2"></i> Connect On WhatsApp
             </a>
         </div>
@@ -1539,7 +1731,7 @@
             }, 1200);
         }
 
-        setInterval(nextSlide, 5000);
+        if (slides.length > 1) { setInterval(nextSlide, 5000); }
 
         // Navbar Scroll Effect
         const navbar = document.getElementById('navbar');
