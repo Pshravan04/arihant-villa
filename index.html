@@ -307,6 +307,10 @@
             color: #8B6508;
         }
                     /* Standardize all section headings to exactly 36px */
+        #navbar a {
+            white-space: nowrap !important;
+        }
+
         section[id] {
             scroll-margin-top: 80px;
         }
@@ -347,33 +351,34 @@
     <!-- STICKY NAVBAR -->
     <nav id="navbar"
         class="fixed top-0 left-0 right-0 z-[100] transition-all duration-300 bg-white border-b border-[#B49D55]">
-        <div class=" max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between items-center h-20">
+        <div class="w-full max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20 gap-4">
                 <!-- Logo -->
                 <div class="flex-shrink-0">
                     <a href="#hero" class="flex items-center">
-                        <img src="assets/logo_3krg.png" alt="Arihant Superstructures Ltd. logo" class="h-[4.4rem] w-auto object-contain" />
+                        <img src="assets/logo_3krg.png" alt="Arihant Superstructures Ltd. logo" class="h-[4.2rem] lg:h-[4.4rem] w-auto object-contain shrink-0" />
                     </a>
                 </div>
 
-                <div class="hidden lg:flex items-center space-x-4 xl:space-x-6 text-[15px]">
-                    <a href="#hero" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Home</a>
-                    <a href="#amenities" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Amenities</a>
-                    <a href="#pricing" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Price & Configurations</a>
-                    <a href="#floor-plans" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Floor Plans</a>
-                    <a href="#gallery" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Gallery</a>
-                    <a href="#location" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Location</a>
-                    <a href="#video-tour" class="text-black hover:text-[#B49D55] font-semibold transition-colors">YouTube Video</a>
+                <!-- Nav Items (Forced Single Line with responsive gap and sizing) -->
+                <div class="hidden lg:flex items-center gap-2.5 xl:gap-5 2xl:gap-6 text-[13px] xl:text-[14px] 2xl:text-[15px] font-semibold whitespace-nowrap">
+                    <a href="#hero" class="text-black hover:text-[#B49D55] transition-colors whitespace-nowrap">Home</a>
+                    <a href="#amenities" class="text-black hover:text-[#B49D55] transition-colors whitespace-nowrap">Amenities</a>
+                    <a href="#pricing" class="text-black hover:text-[#B49D55] transition-colors whitespace-nowrap">Price & Configurations</a>
+                    <a href="#floor-plans" class="text-black hover:text-[#B49D55] transition-colors whitespace-nowrap">Floor Plans</a>
+                    <a href="#gallery" class="text-black hover:text-[#B49D55] transition-colors whitespace-nowrap">Gallery</a>
+                    <a href="#location" class="text-black hover:text-[#B49D55] transition-colors whitespace-nowrap">Location</a>
+                    <a href="#video-tour" class="text-black hover:text-[#B49D55] transition-colors whitespace-nowrap">YouTube Video</a>
                 </div>
 
                 <!-- CTA Buttons -->
-                <div class="hidden lg:flex items-center space-x-3">
+                <div class="hidden lg:flex items-center space-x-2.5 xl:space-x-3 shrink-0">
                     <a href="tel:+919920666676" title="Call Now"
-                        class="border border-[#B49D55] text-[#B49D55] hover:bg-[#B49D55] hover:text-white p-2.5 rounded-[2px] font-semibold text-sm shadow-sm transition-all duration-300 flex items-center justify-center">
+                        class="border border-[#B49D55] text-[#B49D55] hover:bg-[#B49D55] hover:text-white p-2.5 rounded-[2px] font-semibold text-sm shadow-sm transition-all duration-300 flex items-center justify-center shrink-0">
                         <i data-lucide="phone" class="w-4 h-4"></i>
                     </a>
                     <a href="#contact" onclick="openPopup('Enquire Now')"
-                        class="bg-[#B49D55] hover:bg-[#9e8742] block text-center text-white px-6 py-2.5 rounded-[2px] font-semibold text-sm shadow-md hover:shadow-lg transition-all duration-300">
+                        class="bg-[#B49D55] hover:bg-[#9e8742] block text-center text-white px-4 xl:px-6 py-2.5 rounded-[2px] font-semibold text-xs xl:text-sm shadow-md hover:shadow-lg transition-all duration-300 whitespace-nowrap shrink-0">
                         Enquire Now
                     </a>
                 </div>
