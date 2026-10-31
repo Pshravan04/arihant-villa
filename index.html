@@ -307,6 +307,10 @@
             color: #8B6508;
         }
                     /* Standardize all section headings to exactly 36px */
+        section[id] {
+            scroll-margin-top: 80px;
+        }
+
         h2.font-heading,
         section h2:not(.modal-heading) {
             font-size: 36px !important;
@@ -352,14 +356,14 @@
                     </a>
                 </div>
 
-                <div class="hidden lg:flex items-center space-x-6">
-                    <a href="#hero" class="text-black hover:text-[#B49D55] font-semibold text-md">Home</a>
-                    <a href="#amenities" class="text-black hover:text-[#B49D55] font-semibold text-md">Amenities</a>
-                    <a href="#pricing" class="text-black hover:text-[#B49D55] font-semibold text-md">Price &
-                        Configurations</a>
-                    <a href="#floor-plans" class="text-black hover:text-[#B49D55] font-semibold text-md">Floor Plans</a>
-                    <a href="#gallery" class="text-black hover:text-[#B49D55] font-semibold text-md">Gallery</a>
-                    <a href="#location" class="text-black hover:text-[#B49D55] font-semibold text-md">Location</a>
+                <div class="hidden lg:flex items-center space-x-4 xl:space-x-6 text-[15px]">
+                    <a href="#hero" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Home</a>
+                    <a href="#amenities" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Amenities</a>
+                    <a href="#pricing" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Price & Configurations</a>
+                    <a href="#floor-plans" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Floor Plans</a>
+                    <a href="#gallery" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Gallery</a>
+                    <a href="#location" class="text-black hover:text-[#B49D55] font-semibold transition-colors">Location</a>
+                    <a href="#video-tour" class="text-black hover:text-[#B49D55] font-semibold transition-colors">YouTube Video</a>
                 </div>
 
                 <!-- CTA Buttons -->
@@ -401,6 +405,7 @@
                 <a href="#floor-plans" class="block text-black hover:text-[#B49D55] py-2 font-medium">Floor Plans</a>
                 <a href="#gallery" class="block text-black hover:text-[#B49D55] py-2 font-medium">Gallery</a>
                 <a href="#location" class="block text-black hover:text-[#B49D55] py-2 font-medium">Location</a>
+                <a href="#video-tour" class="block text-black hover:text-[#B49D55] py-2 font-medium">YouTube Video</a>
 
                 <div class="flex gap-2 mt-4">
                     <a href="tel:+919920666676"
@@ -513,7 +518,7 @@
                     </p>
                     <div class="flex items-baseline justify-center gap-2">
                         <span class="text-[#B49D55] text-xl font-black">₹</span>
-                        <span class="text-3xl font-bold text-[#B49D55]">4.50 Cr</span> <span
+                        <span class="text-3xl font-bold text-[#B49D55]">5 Cr</span> <span
                             class="text-gray-900 font-medium text-[9px] uppercase">Onwards</span>
                     </div>
                 </div>
