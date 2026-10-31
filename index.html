@@ -456,87 +456,85 @@
 
 
     <!-- Hero Section -->
-    <section id="hero" class="relative bg-white min-h-screen lg:h-screen w-full flex flex-col lg:block pt-[80px]">
+    <section id="hero" class="relative bg-white min-h-screen w-full flex flex-col justify-between pt-[80px] overflow-hidden">
         <!-- Hero Background Slider -->
         <div
             class="relative w-full aspect-square md:aspect-video lg:aspect-auto lg:absolute lg:inset-0 lg:h-full overflow-hidden flex-shrink-0">
             <div class="hero-slide active">
                 <picture class="w-full h-full block">
                     <source media="(max-width: 1023px)" srcset="assets/Hero-Banner-mobile.png">
-                    <img src="assets/Hero-Banner-desktop.png" alt="World Villas by Arihant Superstructures" class="w-full h-full object-cover object-center lg:object-right">
+                    <img src="assets/Hero-Banner-desktop.png" alt="World Villas by Arihant Superstructures"
+                        class="w-full h-full object-cover object-center lg:object-right">
                 </picture>
             </div>
             <div class="absolute inset-0 hero-overlay"></div>
         </div>
 
-        <!-- Project Info Card -->
-        <div
-            class="relative lg:absolute lg:bottom-[15%] lg:left-8 xl:left-20 w-[95%] lg:w-[90%] max-w-sm lg:max-w-[380px] z-20 mx-auto mt-4 lg:mt-0">
-            <div
-                class="premium-card p-4 lg:p-5 rounded-[2px] lg:rounded-[2px] shadow-2xl space-y-2.5 lg:space-y-2.5 text-center backdrop-blur-3xl bg-white border border-[#B49D55]/20">
-                <div class="space-y-0.5">
-                    <p class="text-[9px] font-medium text-[#B49D55] uppercase tracking-[0.3em]">Exclusive New Launch</p>
-                    <h1 class="text-2xl md:text-[1.75rem] font-bold text-[#B49D55] tracking-tighter leading-none mt-1 mb-1">
-                        World Villas
-                    </h1>
-                    <div class="flex flex-col gap-0">
-                        <p class="text-sm font-bold text-gray-800">by Arihant Superstructure</p>
-                        <p class="text-sm font-medium text-black tracking-widest uppercase mt-0.5">At Chowk Mumbai 3.O</p>
+        <!-- Upper Area: Project Info Card (Desktop Left, Mobile Centered) -->
+        <div class="relative z-20 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 lg:py-6 flex-1 flex items-center">
+            <div class="w-full max-w-sm lg:max-w-[360px] mx-auto lg:mx-0">
+                <div
+                    class="premium-card p-4 lg:p-5 rounded-[2px] shadow-2xl space-y-2 text-center backdrop-blur-3xl bg-white border border-[#B49D55]/20">
+                    <div class="space-y-0.5">
+                        <p class="text-[9px] font-medium text-[#B49D55] uppercase tracking-[0.3em]">Exclusive New Launch</p>
+                        <h1 class="text-2xl md:text-[1.75rem] font-bold text-[#B49D55] tracking-tighter leading-none mt-1 mb-1">
+                            World Villas
+                        </h1>
+                        <div class="flex flex-col gap-0">
+                            <p class="text-sm font-bold text-gray-800">by Arihant Superstructure</p>
+                            <p class="text-sm font-medium text-black tracking-widest uppercase mt-0.5">At Chowk Mumbai 3.O</p>
+                        </div>
                     </div>
+
+                    <div class="grid grid-cols-1 gap-1.5 mt-2">
+                        <div
+                            class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform">
+                            <p class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2">
+                                <span class="text-[#B49D55]">â—†</span> Land Parcel 90 Acres
+                            </p>
+                        </div>
+                        <div
+                            class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform">
+                            <p class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2">
+                                <span class="text-[#B49D55]">â—†</span> Lavish Delhi Kothi Style Villas
+                            </p>
+                        </div>
+
+                        <div
+                            class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform flex items-center">
+                            <p class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2 w-full text-center">
+                                <span class="text-[#B49D55] shrink-0">â—†</span> Payment Plan 20:20:20:40
+                            </p>
+                        </div>
+                        <div
+                            class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform flex items-center">
+                            <p class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2 w-full text-center">
+                                <span class="text-[#B49D55] shrink-0">â—†</span> Club 10 Gymkhana Memberships
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="space-y-1 pt-1">
+                        <p class="text-[11px] font-black text-black uppercase tracking-widest leading-relaxed">
+                            4 & 6 BHK Villa Price Starts at
+                        </p>
+                        <div class="flex items-baseline justify-center gap-2">
+                            <span class="text-[#B49D55] text-xl font-black">â‚¹</span>
+                            <span class="text-3xl font-bold text-[#B49D55]">5 Cr</span>
+                            <span class="text-gray-900 font-medium text-[9px] uppercase">Onwards</span>
+                        </div>
+                    </div>
+
+                    <button onclick="openPopup('Download Brochure')"
+                        class="w-full animated-gradient-button text-white font-bold py-3 rounded-[2px] shadow-xl transition-all duration-500 uppercase tracking-[0.2em] text-[10px] hover:scale-[1.02]">
+                        Download Brochure
+                    </button>
                 </div>
-
-                <div class="grid grid-cols-1 gap-1.5 mt-2">
-                    <div
-                        class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform">
-                        <p
-                            class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2">
-                            <span class="text-[#B49D55]">◆</span> Land Parcel 90 Acres
-                        </p>
-                    </div>
-                    <div
-                        class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform">
-                        <p
-                            class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2">
-                            <span class="text-[#B49D55]">◆</span> Lavish Delhi Kothi Style Villas
-                        </p>
-                    </div>
-
-                    <div
-                        class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform flex items-center">
-                        <p
-                            class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2 w-full text-center">
-                            <span class="text-[#B49D55] shrink-0">◆</span> Payment Plan 20:20:20:40
-                        </p>
-                    </div>
-                    <div
-                        class="bg-[#B49D55] shadow-md rounded-[2px] p-2 transform hover:scale-[1.02] transition-transform flex items-center">
-                        <p
-                            class="text-[12px] font-normal text-white leading-tight flex items-center justify-center gap-2 w-full text-center">
-                            <span class="text-[#B49D55] shrink-0">◆</span> Club 10 Gymkhana Memberships
-                        </p>
-                    </div>
-                </div>
-
-                <div class="space-y-1 pt-1">
-                    <p class="text-[11px] font-black text-black uppercase tracking-widest leading-relaxed">
-                        4 & 6 BHK Villa Price Starts at
-                    </p>
-                    <div class="flex items-baseline justify-center gap-2">
-                        <span class="text-[#B49D55] text-xl font-black">₹</span>
-                        <span class="text-3xl font-bold text-[#B49D55]">5 Cr</span> <span
-                            class="text-gray-900 font-medium text-[9px] uppercase">Onwards</span>
-                    </div>
-                </div>
-
-                <button onclick="openPopup('Download Brochure')"
-                    class="w-full animated-gradient-button text-white font-bold py-3 rounded-[2px] shadow-xl transition-all duration-500 uppercase tracking-[0.2em] text-[10px] hover:scale-[1.02]">
-                    Download Brochure
-                </button>
             </div>
         </div>
 
-        <!-- Mobile Quick Form -->
-        <div class="w-full px-4 pb-8 lg:hidden relative z-30 mt-6">
+        <!-- Mobile Quick Form (Visible only on mobile screens) -->
+        <div class="w-full px-4 pb-8 lg:hidden relative z-30 mt-4">
             <div class="bg-[#B49D55] p-6 rounded-[2px] shadow-xl border border-white/20">
                 <div class="text-center mb-4">
                     <h3 class="text-white text-xl font-bold !text-white">Book Site Visit</h3>
@@ -556,43 +554,43 @@
                 </form>
             </div>
         </div>
+
+        <!-- Desktop Horizontal Lead Form Banner (Inside Hero, Clean Bottom Dock, No Negative Overlap) -->
+        <div class="relative z-30 w-full max-w-6xl mx-auto px-4 pb-6 lg:pb-8 pt-2 hidden lg:block">
+            <div class="bg-[#B49D55] p-5 lg:p-6 rounded-[2px] shadow-2xl border border-white/30 backdrop-blur-xl">
+                <div class="flex flex-row items-center gap-6 xl:gap-8">
+                    <div class="flex-shrink-0 border-r border-white/20 pr-6 xl:pr-8">
+                        <h3 class="text-white text-lg xl:text-xl font-bold !text-white">Book Site Visit</h3>
+                        <p class="text-white font-bold text-[10px] uppercase tracking-widest mt-0.5">for Best Offer</p>
+                    </div>
+
+                    <form action="sendmail.php" method="POST" class="flex-1 flex flex-row gap-3 xl:gap-4">
+                        <div class="flex-1">
+                            <input type="text" name="name" placeholder="Full Name" required
+                                class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] px-4 py-3.5 text-sm focus:outline-none focus:ring-2 focus:ring-black/20 shadow-sm transition-all border border-transparent">
+                        </div>
+                        <div class="flex-1">
+                            <input type="tel" name="phone" placeholder="Phone Number" required
+                                class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] px-4 py-3.5 text-sm focus:outline-none focus:ring-2 focus:ring-black/20 shadow-sm transition-all border border-transparent">
+                        </div>
+                        <div class="flex-1">
+                            <input type="email" name="email" placeholder="Email (Optional)"
+                                class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] px-4 py-3.5 text-sm focus:outline-none focus:ring-2 focus:ring-black/20 shadow-sm transition-all border border-transparent">
+                        </div>
+                        <button type="submit"
+                            class="bg-gray-900 hover:bg-black text-white font-bold px-8 xl:px-10 rounded-[2px] shadow-xl hover:shadow-2xl transition-all flex items-center gap-2 whitespace-nowrap text-xs uppercase tracking-widest">
+                            <i data-lucide="download" class="w-4 h-4 text-[#B49D55]"></i>
+                            Brochure
+                        </button>
+                    </form>
+                </div>
+                <p class="text-center text-white/95 font-medium text-[10px] mt-3 uppercase tracking-[0.2em]">We respect your privacy.
+                    Your data is 100% secured.</p>
+            </div>
+        </div>
     </section>
 
-    <!-- Horizontal Lead Form Banner (Flowing Overlap) -->
-    <div class="relative z-30 max-w-6xl mx-auto px-4 -mt-20 mb-12 hidden lg:block">
-        <div class="bg-[#B49D55] p-6 rounded-[2px] shadow-2xl border border-white/30 backdrop-blur-xl">
-            <div class="flex flex-row items-center gap-8">
-                <div class="flex-shrink-0 border-r border-white/20 pr-8">
-                    <h3 class="text-white text-xl font-bold !text-white">Book Site Visit</h3>
-                    <p class="text-white font-bold text-[10px] uppercase tracking-widest mt-1">for Best Offer</p>
-                </div>
-
-                <form action="sendmail.php" method="POST" class="flex-1 flex flex-row gap-4">
-                    <div class="flex-1">
-                        <input type="text" name="name" placeholder="Full Name" required
-                            class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] px-5 py-4 text-sm focus:outline-none focus:ring-2 focus:ring-black/20 shadow-sm transition-all border border-transparent">
-                    </div>
-                    <div class="flex-1">
-                        <input type="tel" name="phone" placeholder="Phone Number" required
-                            class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] px-5 py-4 text-sm focus:outline-none focus:ring-2 focus:ring-black/20 shadow-sm transition-all border border-transparent">
-                    </div>
-                    <div class="flex-1">
-                        <input type="email" name="email" placeholder="Email (Optional)"
-                            class="w-full bg-white text-gray-900 placeholder-gray-500 rounded-[2px] px-5 py-4 text-sm focus:outline-none focus:ring-2 focus:ring-black/20 shadow-sm transition-all border border-transparent">
-                    </div>
-                    <button type="submit"
-                        class="bg-gray-900 hover:bg-black text-white font-bold px-10 rounded-[2px] shadow-xl hover:shadow-2xl transition-all flex items-center gap-3 whitespace-nowrap text-xs uppercase tracking-widest">
-                        <i data-lucide="download" class="w-4 h-4 text-[#B49D55]"></i>
-                        Brochure
-                    </button>
-                </form>
-            </div>
-            <p class="text-center text-white font-medium text-[10px] mt-4 uppercase tracking-[0.2em]">We respect your privacy.
-                Your data is 100% secured.</p>
-        </div>
-    </div>
-
-            <!-- Highlights Section -->
+    <!-- Highlights Section -->
     <section id="highlights" class="pt-4 lg:pt-6 pb-10 lg:pb-12 bg-white">
         <div class="container mx-auto px-4">
             <div class="text-center mb-6 lg:mb-10">
@@ -772,7 +770,7 @@
                         </h2>
                         <div class="space-y-4">
                             <p class="text-sm md:text-base text-gray-700 font-body leading-relaxed">
-                                World Villas is an ambitious riverfront township in Chowk, Karjat, offering meticulously designed G+1 storey villas with maximum space, servant quarters, and wide balconies. Residents enjoy access to an elite Gymkhana and ultra-premium amenities, including a private forest, Olympic-sized swimming pool, sports arena, resort, and an integrated shopping mall.
+                                World Villas is an ambitious riverfront township in Chowk, Mumbai 3.O, offering meticulously designed G+1 storey villas with maximum space, servant quarters, and wide balconies. Residents enjoy access to an elite Gymkhana and ultra-premium amenities, including a private forest, Olympic-sized swimming pool, sports arena, resort, and an integrated shopping mall.
                             </p>
                             <p class="text-sm md:text-base text-gray-700 font-body leading-relaxed">
                                 The 90-acre township boasts excellent connectivity via the Mumbai-Pune Expressway and the upcoming Chowk railway station. Top schools, hospitals, and landmarks like ND Studios and Morbe Dam are just minutes away. Live an exquisite lifestyle surrounded by the serene landscapes of Karjat.
