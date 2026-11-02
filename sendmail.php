@@ -89,7 +89,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         "email"        => $safe_email,
         "phone"        => "'" . $safe_phone,
         "source"       => "Not Specified",
-        "project"      => "Arihant World Villas Website",
+        "project"      => " World Villas Website",
         "time_to_call" => $safe_time,
         "message"      => $safe_message,
         "submitted_at" => date("Y-m-d H:i:s")
@@ -134,7 +134,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->addAddress('thegrowthmonks@gmail.com');
 
             $mail->isHTML(true);
-            $mail->Subject = 'New Lead - Arihant World Villas';
+            $mail->Subject = 'New Lead -  World Villas';
             $mail->Body = "
                 <h2>New Lead Submission</h2>
                 <p><strong>Name:</strong> {$safe_name}</p>
@@ -142,7 +142,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <p><strong>Phone:</strong> {$safe_phone}</p>
                 <p><strong>Best Time To Call:</strong> {$safe_time}</p>
                 <p><strong>Message:</strong> {$safe_message}</p>
-                <p><strong>Source:</strong> Arihant World Villas Website</p>
+                <p><strong>Source:</strong>  World Villas Website</p>
             ";
 
             $mail->send();
@@ -158,7 +158,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (!$email_sent) {
         // Fallback to standard PHP mail()
         $to = "asif@rubaruglobal.com, hina@rubaruglobal.com, thegrowthmonks@gmail.com, tgmshravan@gmail.com";
-        $subject = "New Lead - Arihant World Villas";
+        $subject = "New Lead -  World Villas";
         $message = "
             <h2>New Lead Submission</h2>
             <p><strong>Name:</strong> {$safe_name}</p>
@@ -166,7 +166,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <p><strong>Phone:</strong> {$safe_phone}</p>
             <p><strong>Best Time To Call:</strong> {$safe_time}</p>
             <p><strong>Message:</strong> {$safe_message}</p>
-            <p><strong>Source:</strong> Arihant World Villas Website</p>
+            <p><strong>Source:</strong>  World Villas Website</p>
         ";
         $headers = "MIME-Version: 1.0\r\n";
         $headers .= "Content-type:text/html;charset=UTF-8\r\n";
